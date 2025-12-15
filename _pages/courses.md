@@ -1,7 +1,7 @@
 ---
-title: "Courses"
+title: "E5 Nexus Lab — Courses"
 layout: gridlay
-excerpt: "Courses"
+excerpt: "E5 Nexus Lab — Courses"
 sitemap: false
 permalink: /courses/
 ---

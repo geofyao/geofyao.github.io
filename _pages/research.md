@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "E5 Nexus Lab — Research"
 layout: textlay
-excerpt: "Research"
+excerpt: "E5 Nexus Lab — Research"
 sitemap: false
 permalink: /research/
 ---
