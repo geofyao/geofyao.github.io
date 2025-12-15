@@ -10,12 +10,10 @@ permalink: /
 
 The group is led by **Dr. Fei Yao (Fei.Yao@ed.ac.uk)**.
 
-**The E5 Nexus Lab** is a newly established research group that focuses on a broad range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, including but not limited to:
+Our research group focuses on a broad range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, including but not limited to:
 - XXX
 - XXX
 - XXX
-
-Our research is primarily based on **Earth observation** data and **computational models**, including process-based models (e.g., GEOS-Chem, PVLIB-Python), data assimilation (e.g., adjoint methods), and artificial intelligence (e.g., XXX).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -60,4 +58,8 @@ Our research is primarily based on **Earth observation** data and **computationa
   </a>
 </div>
 
-We are seeking passionate Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!
+Our research is primarily based on **Earth observation** data and **computational models**, including process-based models (e.g., GEOS-Chem, PVLIB-Python), data assimilation (e.g., adjoint methods), and artificial intelligence (e.g., XXX).
+
+**We are seeking passionate Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!**
+
+We are grateful for the funding from XXX and XXX.
