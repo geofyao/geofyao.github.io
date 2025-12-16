@@ -32,10 +32,10 @@ Our research group focuses on a wide range of topics at the **nexus** of **energ
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/_group/E5_Nexus_Lab.png" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/E5_Nexus_Lab.png" alt="Slide 0" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/_group/UoE.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UoE.jpg" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
