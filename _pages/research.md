@@ -65,27 +65,27 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
 
 Refs:
 
-Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601.
+Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
 </div>
 
-<b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217.
+<b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: 10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2021model.jpg" style="width: 80%;">
 </div>
 
-Guo, H., Li, W., Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are more exposed to PM<sub>2.5</sub> pollution: A mobile phone data approach. <i>Environment International</i>, 143, p.105821.
+Guo, H., Li, W., Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are more exposed to PM<sub>2.5</sub> pollution: A mobile phone data approach. <i>Environment International</i>, 143, p.105821. doi: [10.1016/j.envint.2020.105821](https://www.sciencedirect.com/science/article/pii/S0160412020317761)
 
-<b><u>Yao, F.</u></b>, Wu, J., Li, W. and Peng, J., 2019. A spatially structured adaptive two-stage model for retrieving ground-level PM<sub>2.5</sub> concentrations from VIIRS AOD in China. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, 151, pp.263-276.
+<b><u>Yao, F.</u></b>, Wu, J., Li, W. and Peng, J., 2019. A spatially structured adaptive two-stage model for retrieving ground-level PM<sub>2.5</sub> concentrations from VIIRS AOD in China. <i>ISPRS Journal of Photogrammetry and Remote Sensing</i>, 151, pp.263-276. doi: [10.1016/j.isprsjprs.2019.03.011](https://www.sciencedirect.com/science/article/pii/S0924271619300814)
 
-<b><u>Yao, F.</u></b>, Wu, J., Li, W. and Peng, J., 2019. Estimating daily PM<sub>2.5</sub> concentrations in Beijing using 750-M VIIRS IP AOD retrievals and a nested spatiotemporal statistical model. <i>Remote Sensing</i>, 11(7), p.841.
+<b><u>Yao, F.</u></b>, Wu, J., Li, W. and Peng, J., 2019. Estimating daily PM<sub>2.5</sub> concentrations in Beijing using 750-M VIIRS IP AOD retrievals and a nested spatiotemporal statistical model. <i>Remote Sensing</i>, 11(7), p.841. doi: [10.3390/rs11070841](https://www.mdpi.com/2072-4292/11/7/841)
 
-<b><u>Yao, F.</u></b>, Si, M., Li, W. and Wu, J., 2018. A multidimensional comparison between MODIS and VIIRS AOD in estimating ground-level PM<sub>2.5</sub> concentrations over a heavily polluted region in China. <i>Science of the Total Environment</i>, 618, pp.819-828.
+<b><u>Yao, F.</u></b>, Si, M., Li, W. and Wu, J., 2018. A multidimensional comparison between MODIS and VIIRS AOD in estimating ground-level PM<sub>2.5</sub> concentrations over a heavily polluted region in China. <i>Science of the Total Environment</i>, 618, pp.819-828. doi: [10.1016/j.scitotenv.2017.08.209](https://www.sciencedirect.com/science/article/pii/S0048969717322076)
 
-Wu, J., Yao, F., Li, W. and Si, M., 2016. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing–Tianjin–Hebei: A spatiotemporal statistical model. <i>Remote Sensing of Environment</i>, 184, pp.316-328.<br/>
+Wu, J., Yao, F., Li, W. and Si, M., 2016. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing–Tianjin–Hebei: A spatiotemporal statistical model. <i>Remote Sensing of Environment</i>, 184, pp.316-328. doi: [10.1016/j.rse.2016.07.015](https://www.sciencedirect.com/science/article/pii/S0034425716302735)<br/>
 *Supervisor as first author.*
 
 **2.2.** We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
