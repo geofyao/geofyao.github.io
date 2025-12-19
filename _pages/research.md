@@ -71,7 +71,7 @@ Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<su
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
 </div>
 
-<b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: 10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
+<b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: [10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2021model.jpg" style="width: 80%;">
