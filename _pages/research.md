@@ -14,15 +14,15 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health**
+**Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health | 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响**
 
 We XXX.
 
-<!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts** -->
+<!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts | 多重大气环境影响减缓的权衡与协同效应** -->
 
 <!-- Coming soon -->
 
-**Satellite remote sensing of atmospheric environment and energy infrastructure**
+**Satellite remote sensing of atmospheric environment and energy infrastructure | 大气环境和能源基础设施的卫星遥感监测**
 
 Coming soon
 
