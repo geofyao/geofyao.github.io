@@ -163,16 +163,16 @@ September in Hong Kong for buying iPhone 7
 
 June—July in Beijing for IACP10 and summer school on Spatial Econometrics
 
-June in Huizhou, Guangdong, China for travelling (with Lab)
+June in Huizhou, Guangdong, China for travelling (with LULC Lab)
 
-May in SYSU for academic conferences (with Lab)
+May in SYSU for academic conferences (with LULC Lab)
 
 **2015**
 <!-- 2015: 三月前往北京大学深圳研究生院做毕业论文，五月于浙江省舟山市普陀山、东极岛毕业旅行，十一月前往辽宁省沈阳市参加东北大学主办的第八届全国景观生态学学术研讨会，中间顺道游玩北京，十二月前往广东省广州市于中山大学参加第十一次空间行为与规划研究会暨“时空行为研究与应用前沿”学术研讨会 -->
 
-December in SYSU for academic conferences (with Lab)
+December in SYSU for academic conferences (with LULC Lab)
 
-November in Beijing and Shenyang for Landscape Ecology Conference and travelling (with Lab)
+November in Beijing and Shenyang for Landscape Ecology Conference and travelling (with LULC Lab)
 
 **August moved to Shenzhen to start a master journey at PKUSZ!**
 
