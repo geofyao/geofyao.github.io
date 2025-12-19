@@ -34,7 +34,7 @@ We integrate models from multiple disciplines to describe the conceptual system 
 
 Refs:
 
-**Socioeconomic:**
+**<u>Socioeconomic:</u>**
 
 <b><u>Yao, F.<sup>*</sup></u></b>, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. <i>Environmental Science & Technology</i>, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 
@@ -57,7 +57,7 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
 
 Liu, J., Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
-**Natural:**
+**<u>Natural:</u>**
 
 Stay tuned.
 
@@ -72,7 +72,7 @@ We use both process-based models (e.g., GEOS-Chem) and statistical and machine l
 
 Refs:
 
-**Atmospheric environment:**
+**<u>Atmospheric environment:</u>**
 
 <b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: [10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
@@ -97,6 +97,6 @@ Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<su
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
 </div>
 
-**Energy infrastructure**
+**<u>Energy infrastructure:</u>**
 
 Stay tuned.
