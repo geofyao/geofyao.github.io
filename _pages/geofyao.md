@@ -79,6 +79,8 @@ September in Leeds, UK for NCEO Annual Conference
 <!-- July — August in Beijing and Dalian, China with XXX -->
 
 **May in Edinburgh, UK for a half marathon!**
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/half_marathon_at_Edinburgh_1.jpg){: style="width: 40%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/half_marathon_at_Edinburgh_2.jpg){: style="width: 40%; float: center; margin: 10px"}
 
 May in Aberdeen, UK for SAGES 2023 Annual Science meeting
 
@@ -130,7 +132,6 @@ December in Birmingham and Oxford, UK for PKU Alumni (with Xiwen Zhang)
 November in Oxford, UK for Atm-Bio
 
 **September moved to Edinburgh, UK to start a PhD journey!**
-
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/UoE_cropped.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 July in Beijing for graduation ceremony (with Mom and others)
