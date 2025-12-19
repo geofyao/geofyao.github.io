@@ -26,13 +26,15 @@ The work that we have done/currently do/will do:
 
 **1. Socioeconomic and natural drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济与自然驱动及其对能源、公共健康和生态系统健康的影响**
 
-We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
+We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic and natural drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/interdisciplinary_framework.jpg" style="width: 80%;">
 </div>
 
 Refs:
+
+**Socioeconomic:**
 
 <b><u>Yao, F.<sup>*</sup></u></b>, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. <i>Environmental Science & Technology</i>, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 
@@ -55,6 +57,10 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
 
 Liu, J., Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
+**Natural:**
+
+Stay tuned.
+
 <!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应** -->
 
 <!-- Coming soon -->
@@ -62,9 +68,11 @@ Liu, J., Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary
 
 **2. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
 
-**2.1.** We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track near-surface atmospheric environmental conditions (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
+We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track near-surface atmospheric environmental conditions (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts. We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
 
 Refs:
+
+**Atmospheric environment:**
 
 <b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: [10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
@@ -89,6 +97,6 @@ Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<su
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
 </div>
 
-**2.2.** We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
+**Energy infrastructure**
 
 Stay tuned.
