@@ -11,15 +11,15 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**Satellite remote sensing of atmospheric environment and energy infrastructure**
-
-Coming soon
-
 **Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health**
 
 Coming soon
 
-**Trade-offs and synergies in mitigating multiple atmospheric environmental impacts**
+<!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts** -->
+
+<!-- Coming soon -->
+
+**Satellite remote sensing of atmospheric environment and energy infrastructure**
 
 Coming soon
 
