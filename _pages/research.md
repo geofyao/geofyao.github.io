@@ -72,7 +72,7 @@ We use both process-based models (e.g., GEOS-Chem) and statistical and machine l
 
 Refs:
 
-**</u>Emissions:</u>**
+**<u>Emissions:</u>**
 
 Stay tuned.
 
