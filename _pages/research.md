@@ -25,4 +25,4 @@ Coming soon
 
 **We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg){: style="width: 40%; float: center; margin: 10px"}
