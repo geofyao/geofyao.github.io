@@ -6,8 +6,6 @@ sitemap: false
 permalink: /geofyao.html
 ---
 
-<!-- “Life is like riding a bicycle. To keep your balance, you must keep moving.” — Albert Einstein -->
-
 **Life is nothing but an electron looking for a place to rest. — Albert Szent-Györgyi (1937 Nobel Laureate)**
 
 *This page is annually updated.*
