@@ -6,3 +6,6 @@ sitemap: false
 permalink: /people/
 ---
 Coming soon
+
+<!-- 学院教师主页 -->
+<!-- Outside academy -->
