@@ -6,11 +6,13 @@ sitemap: false
 permalink: /
 ---
 
+<!-- Note that a VPN will make this webpage easier to access! -->
+
 **Welcome to the E5 Nexus Lab at XXX of XXX.**
 
 The group is led by **Dr. Fei Yao (Fei.Yao@ed.ac.uk)**.
 
-Our research group focuses on a wide range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment:
+Our research focuses on a wide range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment:
 - Satellite remote sensing of atmospheric environment and energy infrastructure
 - Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health
 - Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
