@@ -61,11 +61,11 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
 
 **2. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
 
-We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track near-surface atmospheric environmental conditions (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
+**2.1.** We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track near-surface atmospheric environmental conditions (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
 
 Refs:
 
-Wang, Y., Wang, H., <b><u>Yao, F.<sup>\*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601.
+Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601.
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
@@ -88,8 +88,6 @@ Guo, H., Li, W., Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are
 Wu, J., Yao, F., Li, W. and Si, M., 2016. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing–Tianjin–Hebei: A spatiotemporal statistical model. <i>Remote Sensing of Environment</i>, 184, pp.316-328.<br/>
 *Supervisor as first author.*
 
-We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
-
-Refs:
+**2.2.** We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
 
 Stay tuned.
