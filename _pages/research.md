@@ -8,7 +8,7 @@ permalink: /research/
 
 **~~Life~~Research is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein**
 
-*Research Spotlights will be shown for recent publications only.*
+*Research Spotlights are shown for recent publications only.*
 
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
