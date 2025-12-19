@@ -24,7 +24,7 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**1. Socioeconomic and natural drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响**
+**1. Socioeconomic and natural drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济与自然驱动及其对能源、公共健康和生态系统健康的影响**
 
 We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
 
