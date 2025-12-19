@@ -16,7 +16,7 @@ The work that we have done/currently do/will do:
 
 **Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health**
 
-Coming soon
+We XXX.
 
 <!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts** -->
 
@@ -27,5 +27,9 @@ Coming soon
 Coming soon
 
 **We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges!**
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg" style="width: 40%;">
+</div>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg){: style="width: 40%; float: center; margin: 10px"}
