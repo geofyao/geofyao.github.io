@@ -14,7 +14,7 @@ The group is led by **Dr. Fei Yao (Fei.Yao@ed.ac.uk)**.
 
 We focus on a wide range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment:
 - Satellite remote sensing of atmospheric environment and energy infrastructure
-- Socioeconomic drivers of atmospheric environment variations and their impacts on energy, public health, and ecosystem health
+- Socioeconomic drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health
 - Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
 <!-- - 大气环境与能源基础设施的卫星遥感监测 -->
 <!-- - 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响 -->
