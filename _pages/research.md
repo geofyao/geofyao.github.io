@@ -76,7 +76,7 @@ Refs:
 
 Stay tuned.
 
-**<u>Atmospheric environment:</u>**
+**<u>Atmospheric environmental conditions (PM<sub>2.5</sub>):</u>**
 
 <b><u>Yao, F.<sup>*</sup></u></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: [10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
@@ -94,6 +94,8 @@ Wu, J., Yao, F., Li, W. and Si, M., 2016. VIIRS-based remote sensing estimation 
 *Supervisor as first author.*
 
 Guo, H., Li, W., Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are more exposed to PM<sub>2.5</sub> pollution: A mobile phone data approach. <i>Environment International</i>, 143, p.105821. doi: [10.1016/j.envint.2020.105821](https://www.sciencedirect.com/science/article/pii/S0160412020317761)
+
+**<u>Atmospheric environmental conditions (urban heat island):</u>**
 
 Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
