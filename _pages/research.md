@@ -97,10 +97,6 @@ Guo, H., Li, W., Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are
 
 Wang, Y., Wang, H., <b><u>Yao, F.<sup>*</sup></u></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
-<div style="text-align: center; margin: 10px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
-</div>
-
 **<u>Energy infrastructure:</u>**
 
 Stay tuned.
