@@ -68,9 +68,13 @@ Stay tuned.
 
 **2. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
 
-We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track near-surface atmospheric environmental conditions (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts. We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
+We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track emissions (e.g., NO<sub>x</sub>) that drive atmospheric environmental conditions near the surface (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts. We are also interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
 
 Refs:
+
+**</u>Emissions:</u>**
+
+Stay tuned.
 
 **<u>Atmospheric environment:</u>**
 
