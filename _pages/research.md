@@ -34,16 +34,16 @@ We integrate models from multiple disciplines to describe the conceptual system 
 
 Refs:
 
-**<u>Yao, F.<sup>\*</sup></u>**, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. *Environmental Science & Technology*, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
+**<u>Yao, F.<sup>*</sup></u>**, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. *Environmental Science & Technology*, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2025attribution.png" style="width: 80%;">
 </div>
 
-**<u>Yao, F.<sup>\*</sup></u>** and Palmer, P.I., 2022. Source sector mitigation of solar energy generation losses attributable to particulate matter pollution. *Environmental Science & Technology*, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
+**<u>Yao, F.<sup>*</sup></u>** and Palmer, P.I., 2022. Source sector mitigation of solar energy generation losses attributable to particulate matter pollution. *Environmental Science & Technology*, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
 
 <div style="text-align: center; margin: 10px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 40%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 60%;">
 </div>
 
 Liu, J.<sup>#</sup>, **<u>Yao, F.<sup>#</sup></u>**, Chen, H. and Zhao, H., 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. *Environmental Health Perspectives*, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://doi.org/10.1289/EHP14550)<br/>
@@ -65,13 +65,13 @@ We use both process-based models (e.g., GEOS-Chem) and statistical and machine l
 
 Refs:
 
-Wang, Y., Wang, H., **<u>Yao, F.<sup>\*</sup></u>**, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. *Sustainable Cities and Society*, 112, p.105601.
+Wang, Y., Wang, H., **<u>Yao, F.<sup>*</sup></u>**, Stouffs, R. and Wu, J.<sup>*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. *Sustainable Cities and Society*, 112, p.105601.
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/wang2024integrated.jpg" style="width: 80%;">
 </div>
 
-**<u>Yao, F.<sup>\*</sup></u>** and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. *Atmospheric Environment*, 248, p.118217.
+**<u>Yao, F.<sup>*</sup></u>** and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. *Atmospheric Environment*, 248, p.118217.
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2021model.jpg" style="width: 80%;">
