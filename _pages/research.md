@@ -77,6 +77,8 @@ Wang, Y., Wang, H., **<u>Yao, F.<sup>\*</sup></u>**, Stouffs, R. and Wu, J.<sup>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2021model.jpg" style="width: 80%;">
 </div>
 
+Guo, H., Li, W., **<u>Yao, F.</u>**, Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are more exposed to PM2. 5 pollution: A mobile phone data approach. Environment International, 143, p.105821.
+
 **<u>Yao, F.</u>**, Wu, J., Li, W. and Peng, J., 2019. A spatially structured adaptive two-stage model for retrieving ground-level PM<sub>2.5</sub> concentrations from VIIRS AOD in China. *ISPRS Journal of Photogrammetry and Remote Sensing*, 151, pp.263-276.
 
 **<u>Yao, F.</u>**, Wu, J., Li, W. and Peng, J., 2019. Estimating daily PM<sub>2.5</sub> concentrations in Beijing using 750-M VIIRS IP AOD retrievals and a nested spatiotemporal statistical model. *Remote Sensing*, 11(7), p.841.
