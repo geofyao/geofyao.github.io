@@ -20,7 +20,7 @@ We focus on a wide range of topics at the **nexus** of **energy** systems, the a
 <!-- - 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响 -->
 <!-- - 多重大气环境影响减缓的权衡与协同效应 -->
 
-<!-- The order of the three research directions above largely follows the conceptual framework attached below. Nonetheless, for HWYQ, we will follow the structure of my SJTU presentation to emphasize my work on the second topic. -->
+<!-- The order of the three research directions above largely follows the conceptual framework. Nonetheless, for HWYQ, we will follow the structure of my SJTU presentation to emphasize my work on the second topic. -->
 
 <!-- We use “atmospheric environment” rather than “atmospheric composition” to encompass not only emissions and concentrations of air pollutants and greenhouse gases, but also weather-related variables such as temperature and wind speed. -->
 
