@@ -8,7 +8,7 @@ permalink: /research/
 
 **~~Life~~Research is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein**
 
-*Research Spotlights are shown for recent publications only.*
+*Research Spotlights are shown for selected recent publications only.*
 
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
@@ -24,7 +24,7 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**1. Socioeconomic drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响**
+**1. Socioeconomic and natural drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济驱动及其对能源、公共健康和生态系统健康的影响**
 
 We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
 
@@ -53,6 +53,7 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/liu2025quantifying.jpg" style="width: 80%;">
 </div>
 
+Liu, J., Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
 <!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应** -->
 
