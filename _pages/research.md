@@ -24,7 +24,7 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**1. Socioeconomic and natural drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的社会经济与自然驱动及其对能源、公共健康和生态系统健康的影响**
+**1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源、公共健康和生态系统健康的影响**
 
 We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic and natural drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
 
@@ -34,7 +34,7 @@ We integrate models from multiple disciplines to describe the conceptual system 
 
 Refs:
 
-**<u>Socioeconomic:</u>**
+**<u>Socioeconomic drivers:</u>**
 
 <b><u>Yao, F.<sup>*</sup></u></b>, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. <i>Environmental Science & Technology</i>, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 
@@ -57,7 +57,7 @@ Liu, J.<sup>#</sup>, <b><u>Yao, F.<sup>#</sup></u></b>, Chen, H. and Zhao, H., 2
 
 Liu, J., Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
-**<u>Natural:</u>**
+**<u>Natural drivers:</u>**
 
 Stay tuned.
 
