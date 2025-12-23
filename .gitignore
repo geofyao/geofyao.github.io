@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# not the following by fyao
+misc.md

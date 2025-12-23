@@ -20,6 +20,8 @@ permalink: /geofyao.html
 
 **基督山伯爵，大仲马著，周克希译**
 
+![]({{ site.url }}{{ site.baseurl }}git /images/newspic/The_Count_of_Monte_Cristo.png){: style="width: 100%; float: center; margin: 10px"}
+
 动物农场，乔治·奥维尔著，荣如德译
 
 平面国，埃德温·艾伯特著，鲁冬旭译
