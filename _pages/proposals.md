@@ -6,7 +6,7 @@ sitemap: false
 permalink: /proposals.html
 ---
 
-**目前拟开展的具体研究课题包括但不限于：**
+课题组的主要研究方向为能源与环境地理学，具体研究内容包括大气环境与能源基础设施的卫星遥感监测、大气环境变化的驱动因素及其对能源与健康的影响、多重大气环境影响减缓的权衡与协同效应等。主要研究手段包括排放清单和投入产出模型、配备辐射传输模块（RRTMG）的全球和区域尺度的大气化学模式（GEOS-Chem）、太阳能光伏发电模型（PVLIB）、健康效应模型（GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
 
 **1. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
 - 近地面大气环境（污染物浓度、城市热岛、甲烷羽流等）的卫星遥感监测（**hindcast > forecast?!**）
