@@ -16,7 +16,7 @@ As illustrated in the figure below, our research addresses a conceptual system i
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
 </div>
 
-**We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges!**
+**We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges! Please contact fei.yao(at)ed(dot)ac(dot)uk for further communications.**
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg" style="width: 40%;">
