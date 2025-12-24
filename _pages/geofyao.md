@@ -10,7 +10,7 @@ permalink: /geofyao.html
 
 *This page is annually updated.*
 
-Jump to [the books I have read](#the-books-i-have-read) and [the places where I have explored](#the-places-i-have-explored):
+Jump to [the books I have read](#the-books-i-have-read) and [the places where I have explored](#the-places-i-have-explored).
 
 ### The books I have read:
 
@@ -68,10 +68,151 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places where I 
 
 废都，贾平凹著
 
-**2024 (X)**
+**2024 (8)**
 
-沧浪之水
+**沧浪之水，阎真著**
 
+人生海海，麦家著
+
+一地鸡毛，刘震云著
+
+植物妻子，韩江著
+
+素食者，韩江著
+
+看见情绪价值，苏菲雅、姚彦宇著
+
+繁花，金宇澄著
+
+红楼梦，曹雪芹著，无名氏续，程伟元、高鹗整理
+
+**2023 (6)**
+
+*Starting this year, I will select my most recommended book of the year. Both authors and translators will be noted, as different translations can greatly influence the reading experience.*
+
+**一句顶一万句，刘震云著**
+
+在细雨中呼喊，余华著
+
+好的爱情，陈果著
+
+兄弟，余华著
+
+江南三部曲，格非著
+
+爱丽丝梦游仙境，刘易斯·卡罗尔著，肖开霖译
+
+**2022 (5)**
+
+查令十字街84号，海莲·汉芙著，陈建铭译
+
+歌剧魅影，加斯通·勒鲁著，姜薇译
+
+人间失格，太宰治著
+
+1367，陈浩基著
+
+呼兰河传，萧红著
+
+**2021 (3)**
+
+水浒全传，施耐庵集撰，罗贯中纂修
+
+三国演义，罗贯中著，吴小林校注，陈迩东审定
+
+82年生的金智英，赵南柱著
+
+**2020 (17)**
+
+呐喊，鲁迅著
+
+骆驼祥子，老舍著
+
+洗澡，杨绛著
+
+毛泽东的故事，石仲泉、陈登才主编
+
+红高粱家族，莫言著
+
+牧羊少年的奇幻之旅，保罗·柯艾略著
+
+许三观卖血记，余华著
+
+三体，刘慈欣著
+
+月亮与六便士，威廉·萨默赛特·毛姆著
+
+哈利波特，J.K. Rolling著，XXX译
+
+神雕侠侣，金庸著
+
+射雕英雄传，金庸著
+
+丰乳肥臀，莫言著
+
+边城，沈从文著
+
+鼠疫，加缪著
+
+林徽因传，林杉著
+
+酒国，莫言著
+
+**2019 (6)**
+
+尘埃落定，阿来著
+
+蛙，莫言著
+
+伪满洲国，迟子建著
+
+都挺好，阿耐著
+
+檀香刑，莫言著
+
+恶意，东野圭吾著
+
+**2018 (17)**
+
+围城，钱钟书著
+
+人民的名义，周梅森著
+
+白鹿原，陈忠实著
+
+<!-- 半小时漫画中国史，二混子著 -->
+
+杀死一只知更鸟，哈珀·李著
+
+偷影子的人，马克·李维著
+
+人类的群星闪耀时，斯蒂芬·茨威格著
+
+万历十五年，黄仁宇著
+
+一本让你爱不释手的英国简史，江乐兴著
+
+异类，马尔科姆·格拉德维尔著
+
+活着，余华著
+
+云计算深刻改变未来，张为民著
+
+泰国·海丝路的战略起点，宋歌、姜子钒著
+
+柬埔寨千年的微笑，亲历者编辑部著
+
+摆渡人，克莱尔·麦克福尔著
+
+穆斯林的葬礼，霍达著
+
+侦探俱乐部，东野圭吾著
+
+秘密，东野圭吾著
+
+**2017 (X)**
+
+XXX
 
 ### The places I have explored:
 
