@@ -210,9 +210,53 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places where I 
 
 秘密，东野圭吾著
 
-**2017 (X)**
+**2017 (5)**
 
-XXX
+挪威的森林，村上村树著
+
+追风筝的人，卡勒德·胡塞尼著
+
+<!-- 滚床单心理学，肖雪萍著 -->
+
+盛夏的方程式，东野圭吾著
+
+白夜行，东野圭吾著
+
+嫌疑人X的献身，东野圭吾著
+
+**2016 (3)**
+
+变身，东野圭吾著
+
+放学后，东野圭吾著
+
+解忧杂货店，东野圭吾著
+
+**2015 and before (5)**
+
+失控，凯文·凯利著
+
+数据之巅，涂子沛著
+
+大数据时代，维克托·迈尔·舍恩伯格著
+
+因为痛·所以叫青春，金兰都著，金勇译
+
+明朝那些事，当年明月著
+
+**The ones that got away**
+
+Murder on the Orient Express, authored by Dame Agatha Mary Clarissa Christie
+
+百年孤独，加夫列尔·加西亚·马尔克斯著
+
+飘，玛格丽特·米切尔著
+
+中国通史，吕思勉著
+
+国富论，亚当斯密著
+
+etc.
 
 ### The places I have explored:
 
