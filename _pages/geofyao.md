@@ -10,7 +10,9 @@ permalink: /geofyao.html
 
 *This page is annually updated.*
 
-**The books I have read:**
+Jump to [the books I have read](#the-books-i-have-read) and [the places where I have explored](#the-places-i-have-explored):
+
+### The books I have read:
 
 **2025 (23)**
 
@@ -66,7 +68,12 @@ permalink: /geofyao.html
 
 废都，贾平凹著
 
-**and the places I have explored:**
+**2024 (X)**
+
+沧浪之水
+
+
+### The places I have explored:
 
 **2026**
 
