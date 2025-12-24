@@ -88,7 +88,7 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places where I 
 
 **2023 (6)**
 
-*Starting this year, I will select my most recommended book of the year. Both authors and translators will be noted, as different translations can greatly influence the reading experience.*
+*Starting this year, I will select my most recommended book of the year. Both authors and translators will be noted, as different translations can greatly influence the reading experience. I have also fully transitioned to online reading on WeRead, where I enjoy reading together with the community.*
 
 **一句顶一万句，刘震云著**
 
