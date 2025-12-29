@@ -3,8 +3,8 @@
   info: XXX, started MM YYYY
   email: Fei.Yao@ed.ac.uk
   number_educ: 5
-  education1: Postdoctoral Reaserch Associate (2022-2023) and Research Scientist (2023-2026), The University of Edinburgh
+  education1: Postdoc (2022-2026), The University of Edinburgh
   education2: PhD (2018-2022), The University of Edinburgh
   education3: MSc (2015-2018), Peking University
   education4: BSc (2011-2015), East China Normal University
-  education5: <a href="https://feiyao-edinburgh.github.io/">学院教师主页</a> | [Beyond academics]({{ site.url }}{{ site.baseurl }}/geofyao)
+  education5: <a href="https://feiyao-edinburgh.github.io/">学院教师主页</a> \| [Beyond academics]({{ site.url }}{{ site.baseurl }}/geofyao)
