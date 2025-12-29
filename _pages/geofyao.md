@@ -12,7 +12,7 @@ permalink: /geofyao.html
 
 Jump to [the books I have read](#the-books-i-have-read) and [the places where I have explored](#the-places-i-have-explored).
 
-### The books I have read:
+## The books I have read:
 
 **2025 (23)**
 
@@ -258,7 +258,7 @@ Murder on the Orient Express, authored by Dame Agatha Mary Clarissa Christie
 
 etc.
 
-### The places I have explored:
+## The places I have explored:
 
 **2026**
 
