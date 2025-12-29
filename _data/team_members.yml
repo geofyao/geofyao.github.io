@@ -11,7 +11,18 @@
 
 - name: This could be you!
   photo: wny.jpg
-  info: see <a href="https://geofyao.github.io/join-us/">学院教师主页</a> for more information
+  info: see <a href="https://geofyao.github.io/join-us/">join-us</a> for more information
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: This could be you!
+  photo: minions_colourful.jpg
+  info: see <a href="https://geofyao.github.io/join-us/">join-us</a> for more information
   email: 
   number_educ: 0
   education1: 
