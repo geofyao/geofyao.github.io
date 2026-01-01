@@ -10,7 +10,7 @@ permalink: /geofyao.html
 
 *This page is annually updated.*
 
-Jump to [the books I have read](#the-books-i-have-read) and [the places where I have explored](#the-places-i-have-explored).
+Jump to [the books I have read](#the-books-i-have-read) and [the places I have explored](#the-places-i-have-explored).
 
 ## The books I have read:
 
