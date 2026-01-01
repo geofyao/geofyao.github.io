@@ -42,7 +42,7 @@ Refs:
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2025attribution.png" style="width: 80%;">
 </div>
 
-<b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source sector mitigation of solar energy generation losses attributable to particulate matter pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
+<b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 50%;">
