@@ -6,9 +6,12 @@ sitemap: false
 permalink: /proposals.html
 ---
 
-We focus on research in energy and environmental geography. Our research topics include satellite remote sensing of atmospheric environment and energy infrastructure, the driving factors of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health, as well as the trade-offs and synergies in mitigating multiple atmospheric environmental impacts. We use a range of research approaches, including emission inventories and input–output models; global and regional atmospheric chemistry models (e.g., GEOS-Chem, WRF-GC) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
+We focus on interdisciplinary research in in energy and environmental geography, with an emphasis on atmospheric environment and its impacts on energy and public/ecosystem health. Our research topics include satellite remote sensing of atmospheric environment and energy infrastructure, the driving factors of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health, as well as the trade-offs and synergies in mitigating multiple atmospheric environmental impacts. We use a range of research approaches, including emission inventories and input–output models; global and regional atmospheric chemistry models (e.g., GEOS-Chem, WRF-GC) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
 
-课题组的主要研究方向为能源与环境地理学，具体研究内容包括大气环境与能源基础设施的卫星遥感监测、大气环境变化的驱动因素及其对能源与健康的影响、多重大气环境影响减缓的权衡与协同效应等。主要研究手段包括排放清单和投入产出模型、配备辐射传输模块（RRTMG）的全球和区域尺度的大气化学模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
+课题组长期致力于能源与环境地理学领域交叉学科研究，重点关注大气环境及其能源健康效应，具体研究内容包括大气环境与能源基础设施的卫星遥感监测、大气环境变化的驱动因素及其对能源与健康的影响、多重大气环境影响减缓的权衡与协同效应等。主要研究手段包括排放清单和投入产出模型、配备辐射传输模块（RRTMG）的全球和区域尺度的大气化学模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
+
+<!-- 大一点：能源与环境地理学（Energy and Environmental Geography） -->
+<!-- 小一点：大气环境及其能源健康效应（Atmospheric Environment and Its Impacts on Energy and Public Health） -->
 
 **1. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
 - **大气环境卫星遥感：**
