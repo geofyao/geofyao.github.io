@@ -16,6 +16,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 **2025 (23)**
 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/WeRead2025.jpg){: style="width: 100%; float: center; margin: 10px"}
+
 你当像鸟飞往你的山，塔拉·韦斯特弗著，任爱红译
 
 三个火枪手，大仲马著，周克希译
