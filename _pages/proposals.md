@@ -24,7 +24,7 @@ We focus on interdisciplinary research in in energy and environmental geography,
 **2. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源、公共健康和生态系统健康的影响**
 - **A review article**
 - **xSRR (neasrr done, globsrr ongoing, cnrsrr pending)**
-- **大气污染驱动下太阳能光伏发电损失的长期演变归因和未来趋势分析：**
+- **大气污染影响下太阳能光伏发电损失演变与归因：**
 - 中国大气行动防治计划和三年蓝天保卫战
 - 这一政策对临近东北亚国家的co-benefits
 - 全球尺度长期演变归因（需要基于1）
