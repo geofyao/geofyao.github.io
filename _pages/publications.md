@@ -32,7 +32,8 @@ permalink: /publications/
 
 17\. Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://doi.org/10.1289/EHP14550)
 <br/>
-*EHP was taken down on 1 December 2025 due to a lack of government support. Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).*
+*[Environmental Health Perspectives joins the ACS Publications portfolio](https://www.acs.org/pressroom/newsreleases/2026/january/environmental-health-perspectives-joins-the-acs-publications-portfolio.html)*<br/>
+*[EHP was taken down on 1 December 2025 due to a lack of government support](https://envirodatagov.org/niehss-only-journal-environmental-health-perspectives-is-suddenly-removed/). Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).*
 
 16\. Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
