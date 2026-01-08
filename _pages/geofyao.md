@@ -320,7 +320,7 @@ September in Leeds, UK for NCEO Annual Conference
 
 **May in Edinburgh, UK for a half marathon!**
 
-<!-- To add a picture of the medal! -->
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 May in Aberdeen, UK for SAGES 2023 Annual Science meeting
 
