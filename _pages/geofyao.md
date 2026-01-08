@@ -320,7 +320,7 @@ September in Leeds, UK for NCEO Annual Conference
 
 **May in Edinburgh, UK for a half marathon!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 20%; float: center; margin: 10px"}
 
 May in Aberdeen, UK for SAGES 2023 Annual Science meeting
 
@@ -373,7 +373,7 @@ November in Oxford, UK for Atm-Bio
 
 **September moved to Edinburgh, UK to start a PhD journey!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/UoE_cropped.jpg){: style="width: 20%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/UoE_cropped.jpg){: style="width: 80%; float: center; margin: 10px"}
 
 July in Beijing for graduation ceremony (with Mom and others)
 
