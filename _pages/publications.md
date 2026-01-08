@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Publish or Perish. Now or Never.**
+**Publish ~~or Perish~~. Now ~~or Never~~.**
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since YYYY.**
 
