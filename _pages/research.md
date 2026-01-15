@@ -58,7 +58,7 @@ Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao,
 
 Liu, J.<sup>\*</sup>, Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
-**<u>Natural drivers:</u>**
+**<u>Natural drivers (including interactions with socioeconomic drivers):</u>**
 
 Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2025. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
 
