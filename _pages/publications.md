@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## Peer-reviewed
 
-20\. Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2025. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. Accepted for publication in <i>Communications Earth & Environment</i>.
+20\. Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2025. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
 
 19\. Wang, H., Maslanka, W., Palmer, P.I.<sup>\*</sup>, Wooster, M.J., Wang, H., Yao, F., Feng, L., Wu, K., Lu, X.<sup>\*</sup> and Fan, S.<sup>\*</sup>, 2025. Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone. <i>Atmospheric Chemistry and Physics</i>, 25(23), pp.17501-17526. doi: [10.5194/acp-25-17501-2025](https://acp.copernicus.org/articles/25/17501/2025/)
 

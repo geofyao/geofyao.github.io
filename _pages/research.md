@@ -60,7 +60,11 @@ Liu, J.<sup>\*</sup>, Li, J. and Yao, F., 2022. Source-receptor relationship of 
 
 **<u>Natural drivers:</u>**
 
-Stay tuned.
+Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2025. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yin2026substantial.webp" style="width: 80%;">
+</div>
 
 <!-- **Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应** -->
 
