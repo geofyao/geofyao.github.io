@@ -1,5 +1,8 @@
+# - date: 2026-XX-XX
+#   headline: '<b>Congrats to XXX on his/her paper published in <a href="XXX"><i>XXX</i><a>!</b>'
+
 - date: 2026-01-14
-  headline: '<b>Congrats to Ke Yin on his paper published in <a href="https://www.nature.com/articles/s43247-025-03123-1"><i>Communications Earth & Environment</i></a>!</b>'
+  headline: '<b>Our co-author paper has been fully published in <a href="https://www.nature.com/articles/s43247-025-03123-1"><i>Communications Earth & Environment</i></a>!</b>'
 
 - date: 2026-01-01
   headline: "Fei Yao created this webpage."
