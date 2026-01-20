@@ -272,7 +272,7 @@ etc.
 
 **XXX moved back to Shanghai to start a faculty journey at XXX!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU_cropped.JPG){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU.JPG){: style="width: 60%; float: center; margin: 10px"}
 
 **2025**
 
@@ -328,7 +328,7 @@ September in Leeds, UK for NCEO Annual Conference
 
 **May in Edinburgh, UK for a half marathon!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 20%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 30%; float: center; margin: 10px"}
 
 May in Aberdeen, UK for SAGES 2023 Annual Science meeting
 
