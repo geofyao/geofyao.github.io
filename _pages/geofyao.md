@@ -14,6 +14,12 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 ## The books I have read:
 
+**A reader lives a thousand lives before he dies. The man who never reads lives only one. — George R.R. Martin, A Dance with Dragons**
+
+**携书如历三千世，无书唯度一平生。**
+
+**2026 (X)**
+
 **2025 (23)**
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/WeRead2025.jpg){: style="width: 50%; float: center; margin: 10px"} -->
