@@ -67,4 +67,5 @@ permalink: /publications/
 <br/>
 *Supervisor as first author.*
 
-1\. <b>Yao, F.</b>, Ye, K. and Zhou, J.<sup>\*</sup>, 2015. Automatic image classification and retrieval by analyzing plant leaf features. <i>Journal of Zhejiang A&F University</i>, 32(3), pp.426-433. doi: [10.11833/j.issn.2095-0756.2015.03.015](https://zlxb.zafu.edu.cn/article/doi/10.11833/j.issn.2095-0756.2015.03.015)
+1\. <b>Yao, F.</b>, Ye, K. and Zhou, J.<sup>\*</sup>, 2015. Automatic image classification and retrieval by analyzing plant leaf features. <i>Journal of Zhejiang A&F University</i>, 32(3), pp.426-433. doi: [10.11833/j.issn.2095-0756.2015.03.015](https://zlxb.zafu.edu.cn/article/doi/10.11833/j.issn.2095-0756.2015.03.015)<br/>
+1\. <b>姚飞</b>, 叶康 and 周坚华<sup>\*</sup>, 2015. 植物叶图像特征分析和分类检索. <i>浙江农林大学学报</i>, 32(3), pp.426-433.
