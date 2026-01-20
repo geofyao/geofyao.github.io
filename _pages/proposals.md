@@ -21,7 +21,7 @@ We focus on interdisciplinary research in in energy and environmental geography,
 - **能源基础设施(如太阳能光伏面板)的卫星遥感检测**
 - 
 
-**2. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源健康系统健康的影响**
+**2. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源健康系统的影响**
 - **A review article**
 - **xSRR (neasrr done, globsrr ongoing, cnrsrr pending)**
 <!-- - **大气污染影响下太阳能光伏发电损失演变与归因：** -->
