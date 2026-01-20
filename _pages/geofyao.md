@@ -272,6 +272,8 @@ etc.
 
 **XXX moved back to Shanghai to start a faculty journey at XXX!**
 
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU_cropped.jpg){: style="width: 80%; float: center; margin: 10px"}
+
 **2025**
 
 December in Nanjing, China for Young Scholars Forum (Southeast University)
