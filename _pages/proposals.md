@@ -14,7 +14,7 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 - 大气污染物近地面浓度卫星遥感估算（hindcast $\rightarrow$ forecast）
 - 大气污染物及其前体物排放卫星遥感反演
 - 能源基础设施（如太阳能光伏面板）卫星遥感检测
----
+- ---
 - 城市热岛
 - 甲烷点源排放
 
@@ -26,7 +26,7 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 - 气候变化引致的未来空气质量变化对太阳能光伏发电的影响（cncc-solar-energy）
 - 野火、沙尘和太阳能光伏发电（从单一到全事件分析，dust-solar-energy）
 - 中国大气污染防治行动计划和三年蓝天保卫战对东北亚（仍然基于GC）乃至全球（和Zhen合作使用CESM）公共健康与太阳能光伏发电的好处
----
+- ---
 - 中国碳中和政策对东北亚（仍然基于GC）乃至全球（和Zhen合作使用CESM）公共健康与情景能源发电的好处
 - 碳中和政策对气候变化引发的相关不利影响的抵消及区域不平等
 - 跨学科综合模型的机器学习实现（基于xSRR/ccaa等项目积累数据）
