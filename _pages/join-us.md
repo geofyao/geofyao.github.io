@@ -23,7 +23,7 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 4. Satellite remote sensing monitoring of energy infrastructure | 能源基础设施的卫星遥感监测
 5. Satellite remote sensing of atmospheric environment | 大气环境卫星遥感
 6. Applications of artificial intelligence in atmospheric environmental research | 人工智能在大气环境研究中的应用
-7. **More innovative research directions and scientific questions await your exploration! | 更多有趣的研究方向和科学问题等你来提出！**
+7. <b>More innovative research directions and scientific questions await your exploration! | 更多有趣的研究方向和科学问题等你来提出！</b>
 
 **Please contact Dr. Fei Yao (Fei.Yao@ed.ac.uk). When contacting, please include the following materials:**
 
