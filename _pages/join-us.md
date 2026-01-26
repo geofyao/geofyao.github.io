@@ -29,9 +29,9 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 
 **请联系姚飞博士（Fei.Yao@ed.ac.uk），联系时建议附以下材料：**
 
-1. **A cover letter** stating why you are interested in joining our group \｜ 动机说明信
-2. **Curriculum Vitae (CV)** (in Chinese or English) \｜ 个人简历（中英文均可）
-3. Other materials demonstrating your qualifications or abilities (optional) \｜ 其他能体现申请人能力的材料（非必须）
+1. **A cover letter** stating why you are interested in joining our group \| 动机说明信
+2. **Curriculum Vitae (CV)** (in Chinese or English) \| 个人简历（中英文均可）
+3. Other materials demonstrating your qualifications or abilities (optional) \| 其他能体现申请人能力的材料（非必须）
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.
 
