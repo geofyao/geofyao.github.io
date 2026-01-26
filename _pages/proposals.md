@@ -14,8 +14,8 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 - 大气污染物近地面浓度卫星遥感估算（hindcast → forecast）
 - 大气污染物及其前体物排放卫星遥感反演
 - 能源基础设施（如太阳能光伏面板）卫星遥感检测
-<!-- - 城市热岛
-- 甲烷点源排放 -->
+<!-- - 城市热岛 -->
+<!-- - 甲烷点源排放 -->
 
 **2. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
 - A review article (pvpm)
@@ -25,13 +25,13 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 - 气候变化引致的未来空气质量变化对太阳能光伏发电的影响（cncc-solar-energy）
 - 野火、沙尘和太阳能光伏发电（从单一到全事件分析，dust-solar-energy）
 - 中国大气污染防治行动计划和三年蓝天保卫战裨益东北亚（still GC）乃至全球（→CESM potentially with Zhen）公共健康与太阳能光伏发电
-<!-- - 中国碳中和政策裨益东北亚（still GC）乃至全球（→CESM potentially with Zhen）公共健康与太阳能光伏发电
-- 碳中和政策对气候变化引发的相关不利影响的抵消及区域不平等
-- 跨学科综合模型的机器学习实现（基于xSRR/ccaa等项目积累数据）
-- 分析维度扩展：成本-收益，供给-需求，闭环，等
-- 大气污染对生态系统健康及粮食安全的影响
-- 大气化学-气象相互作用对太阳能光伏发电影响（基于WRF-GC）
-- 气溶胶-云相互作用对太阳能光伏发电影响 -->
+<!-- - 中国碳中和政策裨益东北亚（still GC）乃至全球（→CESM potentially with Zhen）公共健康与太阳能光伏发电 -->
+<!-- - 碳中和政策对气候变化引发的相关不利影响的抵消及区域不平等 -->
+<!-- - 跨学科综合模型的机器学习实现（基于xSRR/ccaa等项目积累数据） -->
+<!-- - 分析维度扩展：成本-收益，供给-需求，闭环，等 -->
+<!-- - 大气污染对生态系统健康及粮食安全的影响 -->
+<!-- - 大气化学-气象相互作用对太阳能光伏发电影响（基于WRF-GC） -->
+<!-- - 气溶胶-云相互作用对太阳能光伏发电影响 -->
 
 **3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
 - 多重大气环境影响评估的伴随实现
