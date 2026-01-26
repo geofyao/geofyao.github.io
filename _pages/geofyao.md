@@ -8,7 +8,7 @@ permalink: /geofyao.html
 
 **Life is nothing but an electron looking for a place to rest. — Albert Szent-Györgyi (1937 Nobel Laureate)**
 
-*This page is annually updated.*
+*This page is monthly updated.*
 
 Jump to [the books I have read](#the-books-i-have-read) and [the places I have explored](#the-places-i-have-explored).
 
@@ -19,6 +19,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 **携书如历三千世，无书唯度一平生。**
 
 **2026 (X)**
+
+包法利夫人，福楼拜著，周克希译
 
 **2025 (23)**
 
