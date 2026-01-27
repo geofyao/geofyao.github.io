@@ -24,6 +24,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 **2025 (23)**
 
+*Starting this year, I read every day and finish at least one book each month. 苟日读，日日读，又日读。*
+
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/newspic/WeRead2025.jpg){: style="width: 50%; float: center; margin: 10px"} -->
 
 你当像鸟飞往你的山，塔拉·韦斯特弗著，任爱红译
