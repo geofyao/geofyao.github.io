@@ -16,7 +16,7 @@ permalink: /publications/
 
 <!-- **Publication list (First or Corres. Author/All)** -->
 
-## Submitted:
+## Submitted
 
 21\. Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2025. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Submitted.
 
