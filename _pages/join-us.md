@@ -6,7 +6,13 @@ sitemap: false
 permalink: /join-us/
 ---
 
-<!-- **We are seeking passionate Ph.D., Master, and Undergraduate students to join the team!**
+Coming soon
+
+<!-- 夏令营与保研推免信息
+
+---
+
+**We are seeking passionate Ph.D., Master, and Undergraduate students to join the team!**
 
 **欢迎对大气污染、气候变化及清洁能源感兴趣的同学们（博士生、硕士生、本科生）加入我们！**
 
@@ -32,11 +38,4 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.
 
-<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。
-
---- -->
-
-Coming soon
-
-<!-- 夏令营与保研推免信息 -->
-
+<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。 -->

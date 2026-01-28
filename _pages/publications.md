@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Publish ~~or Perish~~. Now ~~or Never~~.**
+**Publish ~~or Perish~~. Now ~~or Never~~. Done ~~is better than perfect~~.**
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since YYYY.**
 
@@ -16,7 +16,7 @@ permalink: /publications/
 
 <!-- **Publication list (First or Corres. Author/All)** -->
 
-## In revision, in review, submitted, in preparation:
+## Submitted:
 
 21\. Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2025. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Submitted.
 
