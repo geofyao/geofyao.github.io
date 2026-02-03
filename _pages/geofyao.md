@@ -20,6 +20,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 **2026 (X)**
 
+银河帝国：基地（Foundation）
+
 何以笙箫默，顾漫著
 
 <!-- ❝如果要用时间来证明爱，那要浪费多少时间。❞ -->
