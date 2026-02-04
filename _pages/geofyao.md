@@ -365,14 +365,14 @@ September in Leeds, UK for NCEO Annual Conference
 
 <div style="
     border: 1px solid black;
-    width: 30%;
+    width: 40%;
     padding: 10px 0px 0px 0px; /* top, right, bottom, left */
     margin-bottom: 10px
 ">
 
 <b>May in Edinburgh, UK for a half marathon!</b>
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 30%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 40%; float: center; margin: 10px"}
 
 </div>
 
