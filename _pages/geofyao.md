@@ -20,7 +20,28 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 **2026 (X)**
 
+<div style="
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px 0px 0px 0px; /* top, right, bottom, left */
+    margin-bottom: 10px
+">
+
+<b>银河帝国系列，艾萨克·阿西莫夫著，叶李华译</b>
+
+<b>基地系列</b>
+
 银河帝国：基地（Foundation）
+
+<b>机器人系列</b>
+
+XXX
+
+<b>帝国系列</b>
+
+XXX
+
+</div>
 
 何以笙箫默，顾漫著
 
@@ -288,9 +309,18 @@ etc.
 
 **2026**
 
-**XXX moved back to Shanghai to start a faculty journey at XXX!**
+<div style="
+    border: 1px solid black;
+    width: fit-content;
+    padding: 10px 0px 0px 0px; /* top, right, bottom, left */
+    margin-bottom: 10px
+">
+
+<b>XXX moved back to Shanghai to start a faculty journey at XXX!</b>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU.JPG){: style="width: 60%; float: center; margin: 10px"}
+
+</div>
 
 **2025**
 
