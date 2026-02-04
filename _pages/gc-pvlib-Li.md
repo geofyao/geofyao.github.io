@@ -13,11 +13,11 @@ This page describes the variables required to calculate the impacts of particula
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gc-pvlib-Li_en.png" style="width: 100%;">
 </div>
 
-**Each data record must contain coordinates for latitude, longitude, and time, as well as the following variables:**
+**Each data record <u>must</u> contain coordinates for latitude, longitude, and time, as well as the following variables:**
 
 GHI: Global Horizontal Irradiance typically expressed in W m<sup>-2</sup>
 
-**Each data record may include the following optional variables:**
+**Each data record <u>may</u> include the following optional variables:**
 
 DNI: Direct Normal Irridance typically expressed in W m<sup>-2</sup>
 
