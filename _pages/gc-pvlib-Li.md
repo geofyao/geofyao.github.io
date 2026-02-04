@@ -6,7 +6,7 @@ sitemap: false
 permalink: /gc-pvlib-Li.html
 ---
 
-This page describes the variables required to calculate the impacts of particulate matter (PM) on solar photovoltaic (PV) efficiency or capacity factor, which are typically expressed as unitless quantities. To calculate the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations, typically expressed in μg/m<sup>3</sup>, are needed.
+This page describes the variables required to calculate the impacts of particulate matter (PM) on solar photovoltaic (PV) efficiency or capacity factor (CF), which are typically expressed as unitless quantities. To calculate the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations, typically expressed in µg m<sup>-3</sup>, are needed.
 
 
 <div style="text-align: center; margin: 10px 0;">
@@ -15,6 +15,12 @@ This page describes the variables required to calculate the impacts of particula
 
 **Required:**
 
-GHI: Global horizontal irradiance typically expressed in 
+Each data record must contain coordinates for **latitude**, **longitude**, and **time**.
+
+**GHI**: Global horizontal irradiance typically expressed in XXX.
 
 **Optional:**
+
+DNI:
+
+DHI:
