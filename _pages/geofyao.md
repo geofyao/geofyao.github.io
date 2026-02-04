@@ -365,7 +365,7 @@ September in Leeds, UK for NCEO Annual Conference
 
 <div style="
     border: 1px solid black;
-    width: 40%;
+    width: 30%;
     padding: 10px 0px 0px 0px; /* top, right, bottom, left */
     margin-bottom: 10px
 ">
