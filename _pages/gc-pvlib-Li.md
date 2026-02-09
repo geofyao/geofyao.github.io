@@ -45,3 +45,7 @@ _**We distinguish between gravitational and turbulent deposition fluxes**, as gr
 `temp_air`: Air temperature (also known as dry-bulb temperature) \[C\]
 
 `wind_speed`: Wind speed at a height of 10 meters \[m/s\]
+
+---
+
+`grid_indices`: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
