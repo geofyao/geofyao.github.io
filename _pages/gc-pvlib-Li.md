@@ -37,7 +37,7 @@ This page describes the variables required to calculate the impacts of particula
 
 `TurDepFlux_spe`: turbulent deposition flux of a specific aerosol species \[g m<sup>-2</sup>\]
 
-*<b>We distinguish between gravitational and turbulent deposition fluxes</b>, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities (`GraDepVel_spe` and `TurDepVel_spe`) and near-surface aerosol concentrations (`AerMass`). For aerosol species, <b>we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust</b> because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code.*
+<i><b>We distinguish between gravitational and turbulent deposition fluxes</b>, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities (`GraDepVel_spe` and `TurDepVel_spe`) and near-surface aerosol concentrations (`AerMass`). For aerosol species, <b>we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust</b> because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code.</i>
 
 `precipitation_rates`: precipitation rates at the ground \[mm h<sup>-1</sup>\]
 
