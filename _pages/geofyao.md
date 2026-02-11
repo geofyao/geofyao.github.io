@@ -33,6 +33,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 银河帝国：基地（Foundation）
 
+银河帝国2：基地与帝国（Foundation and Empire）
+
 <b>机器人系列</b>
 
 XXX
