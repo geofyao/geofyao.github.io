@@ -6,9 +6,13 @@ sitemap: false
 permalink: /group/
 ---
 
-[Group-Meetings]({{ site.url }}{{ site.baseurl }}/group-meetings)
+## Group Meetings
 
-[Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
+Coming soon
+
+<!-- A calendar showing both group and individual meetings -->
+
+## [Group Knowledge Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
 
 ## Current Group Members
 
