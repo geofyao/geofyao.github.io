@@ -8,9 +8,7 @@ permalink: /group/
 
 ## Group Meetings
 
-Coming soon
-
-<!-- A calendar showing both group and individual meetings -->
+<!-- A calendar showing both group and individual meetings here or link to an online document.  -->
 
 ## [Group Knowledge Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
 
