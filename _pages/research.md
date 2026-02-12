@@ -13,9 +13,7 @@ permalink: /research/
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
 <div style="text-align: center; margin: 10px 0;">
-  <a href="https://geofyao.github.io/gc-pvlib-Li.html" target="_blank" rel="noopener">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
-  </a>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
 </div>
 
 **We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
@@ -44,7 +42,7 @@ Refs:
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2025attribution.png" style="width: 80%;">
 </div>
 
-<b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
+<b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175) [gc-pvlib-Li](https://geofyao.github.io/gc-pvlib-Li.html)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 50%;">

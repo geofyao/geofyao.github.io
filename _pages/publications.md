@@ -39,7 +39,7 @@ permalink: /publications/
 
 15\. Marvin, M.R.<sup>\*</sup>, Palmer, P.I., Yao, F., Latif, M.T. and Khan, M.F., 2024. Uncertainties from biomass burning aerosols in air quality models obscure public health impacts in Southeast Asia. <i>Atmospheric Chemistry and Physics</i>, 24(6), pp.3699-3715. doi: [10.5194/acp-24-3699-2024](https://acp.copernicus.org/articles/24/3699/2024/)
 
-14\. <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
+14\. <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175) [gc-pvlib-Li](https://geofyao.github.io/gc-pvlib-Li.html)
 
 13\. Liu, J.<sup>\*</sup>, Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
 
