@@ -309,7 +309,7 @@ etc.
 
 **2026**
 
-**January moved back to Shanghai to start a faculty journey at XXX!**
+**March moved back to Shanghai to start a faculty journey at Shanghai Jiao Tong University!**
 
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU.JPG){: style="width: 60%; float: center; margin: 10px"}
 
