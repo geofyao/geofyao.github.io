@@ -13,7 +13,9 @@ permalink: /research/
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
 <div style="text-align: center; margin: 10px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
+  <a href="https://geofyao.github.io/gc-pvlib-Li.html" target="_blank" rel="noopener">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
+  </a>
 </div>
 
 **We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
@@ -48,9 +50,10 @@ Refs:
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 50%;">
 </div>
 
-Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://doi.org/10.1289/EHP14550)<br/>
-*[Environmental Health Perspectives joins the ACS Publications portfolio](https://www.acs.org/pressroom/newsreleases/2026/january/environmental-health-perspectives-joins-the-acs-publications-portfolio.html)*<br/>
-*EHP was taken down on 1 December 2025 due to a lack of government support. Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).*
+Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://doi.org/10.1289/EHP14550) [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/)
+<!-- <br/> -->
+<!-- *[Environmental Health Perspectives joins the ACS Publications portfolio](https://www.acs.org/pressroom/newsreleases/2026/january/environmental-health-perspectives-joins-the-acs-publications-portfolio.html)*<br/> -->
+<!-- *EHP was taken down on 1 December 2025 due to a lack of government support. Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).* -->
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/liu2025quantifying.jpg" style="width: 80%;">
