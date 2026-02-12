@@ -48,4 +48,28 @@ _**We distinguish between gravitational and turbulent deposition fluxes**, as gr
 
 ---
 
+Among the five meteorological variables listed above, `temp_air` and `pressure` are primarily used to adjust solar position and air mass estimates, which may influence irradiance (for example, the `perez` sky diffuse model requires air mass as an input), but should only to a limited extent. `albedo` changes very slowly; however, because it directly converts `GHI` to E<sub>g</sub>, it has a strong impact on irradiance. `precipitation` affects soiling and therefore irradiance. `temp_air` and `wind_speed` mainly affect cell temperature rather than irradiance.
+
+**To isolate the effects of changing meteorological conditions on irradiance alone, we can keep `temp_air` and `wind_speed` the same as in the CTRL case while varying the other variables as needed.** The only drawback of this approach is that `temp_air` may slightly affect the solar position, and therefore irradiance, calculations. However, this impact should be minimal (see discussion <a href="https://github.com/pvlib/pvlib-python/issues/1065#issuecomment-697640969">here</a>). Hence, we may not supply an alternative `temp_air` source specifically for solar position calculations in both `gc-pvlib-Li.py` and `modelchain.py`, as outlined below:
+
+```python
+
+solar_position = location.get_solarposition(index,
+                                            pressure=pressure,
+                                            temperature=temp_air)
+
+---
+
+# build kwargs for solar position calculation
+try:
+    press_temp = _build_kwargs(['pressure', 'temp_air'], weather)
+    press_temp['temperature'] = press_temp.pop('temp_air')
+except KeyError:
+    pass
+self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp for readability.
+
+```
+
+---
+
 `grid_indices`: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
