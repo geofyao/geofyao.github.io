@@ -1,10 +1,14 @@
 ---
-title: "E5 Nexus Lab — People"
+title: "E5 Nexus Lab — Group"
 layout: gridlay
-excerpt: "E5 Nexus Lab — People"
+excerpt: "E5 Nexus Lab — Group"
 sitemap: false
-permalink: /people/
+permalink: /group/
 ---
+
+[Group-Meetings]({{ site.url }}{{ site.baseurl }}/group-meetings)
+
+[Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
 
 ## Current Group Members
 
