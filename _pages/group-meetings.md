@@ -6,3 +6,5 @@ sitemap: false
 permalink: /group-meetings/
 ---
 Coming soon
+
+<!-- A dynamic calendar showing both group and individual meetings -->
