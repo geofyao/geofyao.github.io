@@ -6,7 +6,7 @@ sitemap: false
 permalink: /group/
 ---
 
-Group-Meetings | [Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
+**Group-Meetings \| [Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)**
 
 <!-- Group (and individual) meetings will point to an online calendar/document that will be updated regularly. -->
 
