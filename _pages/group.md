@@ -6,11 +6,9 @@ sitemap: false
 permalink: /group/
 ---
 
-## Group Meetings
+Group-Meetings | [Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
 
-<!-- A calendar showing both group and individual meetings here or link to an online document.  -->
-
-## [Group Knowledge Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)
+<!-- Group (and individual) meetings will point to an online calendar/document that will be updated regularly. -->
 
 ## Current Group Members
 
