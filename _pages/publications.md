@@ -18,7 +18,9 @@ permalink: /publications/
 
 ## In Progress
 
-21\. Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2025. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Under Review.
+22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. Submitted.
+
+21\. Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Under Review.
 
 ## Peer-reviewed
 
