@@ -70,7 +70,7 @@ permalink: /publications/
 
 2\. Wu, J., Yao, F., Li, W.<sup>\*</sup> and Si, M., 2016. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing–Tianjin–Hebei: A spatiotemporal statistical model. <i>Remote Sensing of Environment</i>, 184, pp.316-328. doi: [10.1016/j.rse.2016.07.015](https://www.sciencedirect.com/science/article/pii/S0034425716302735)
 <br/>
-Supervisor as first author.
+Supervisor as first author
 
 1\. <b>Yao, F.</b>, Ye, K. and Zhou, J.<sup>\*</sup>, 2015. Automatic image classification and retrieval by analyzing plant leaf features. <i>Journal of Zhejiang A&F University</i>, 32(3), pp.426-433. doi: [10.11833/j.issn.2095-0756.2015.03.015](https://zlxb.zafu.edu.cn/article/doi/10.11833/j.issn.2095-0756.2015.03.015)<br/>
 <!-- 1\. <b>姚飞</b>, 叶康 and 周坚华<sup>\*</sup>, 2015. 植物叶图像特征分析和分类检索. <i>浙江农林大学学报</i>, 32(3), pp.426-433. -->
