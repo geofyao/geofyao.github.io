@@ -12,13 +12,13 @@ permalink: /
 
 The group is led by **Dr. Fei Yao (Fei.Yao@ed.ac.uk)**.
 
-We focus on a wide range of topics at the **nexus** of **energy** systems, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment:
-- Satellite remote sensing of atmospheric environment and energy infrastructure
-- Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health
-- Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
-<!-- - 大气环境与能源基础设施的卫星遥感监测 -->
-<!-- - 大气环境变化的驱动因素及其对能源健康系统的影响 -->
-<!-- - 多重大气环境影响减缓的权衡与协同效应 -->
+We focus on a wide range of topics at the **nexus** of renewable **energy**, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment and renewable energy:
+- Atmospheric environment, its impacts, and responses
+- Renewable energy and climate change mitigation
+- AI-enabled sustainable energy and environmental research
+<!-- - 大气环境及影响与应对 -->
+<!-- - 可再生能源与减缓气候变化 -->
+<!-- - AI赋能可持续能源与环境研究 -->
 
 <!-- The order of the three research directions above largely follows the conceptual framework. Nonetheless, for HWYQ, we will follow the structure of my SJTU presentation to emphasize my work on the second topic. -->
 
