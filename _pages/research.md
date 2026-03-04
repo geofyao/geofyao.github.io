@@ -8,7 +8,7 @@ permalink: /research/
 
 **~~Life~~Research is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein**
 
-*Research Spotlights are shown for selected recent publications only.*
+Jump to [Atmospheric environment, its impacts, and responses](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对) and [Renewable energy and climate change mitigation](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化).
 
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
@@ -24,9 +24,9 @@ As illustrated in the figure below, our research addresses a conceptual system i
 
 The work that we have done/currently do/will do:
 
-**1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
+## 1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对
 
-**1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
+### 1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响
 
 We integrate models from multiple disciplines to describe the conceptual system outlined above. Using this integrated approach, we perform counterfactual experiments to identify the socioeconomic and natural drivers behind the impacts of atmospheric environmental variations on energy, public health, and ecosystem health. The identified drivers provide guidance for effectively mitigating these environmental impacts.
 
@@ -72,9 +72,7 @@ Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yin2026substantial.webp" style="width: 80%;">
 </div>
 
----
-
-**1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测**
+### 1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测
 
 We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track emissions (e.g., NO<sub>x</sub>) that drive atmospheric environmental conditions near the surface (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
 
@@ -107,22 +105,16 @@ Guo, H., Li, W.<sup>\*</sup>, Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 
 
 Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
----
-
-**1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
+### 1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应
 
 Stay tuned.
 
----
+## 2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化
 
-**2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
-
-**2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测**
+### 2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测
 
 Stay tuned.
 
----
-
-**2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
+### 2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析
 
 Stay tuned.
