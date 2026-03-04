@@ -111,11 +111,11 @@ Stay tuned.
 
 **2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
 
-2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测
+**2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测**
 
 We are interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
 
-2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析
+**2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
 
 Stay tuned.
 
