@@ -19,26 +19,26 @@ Coming soon
 We focus on interdisciplinary research in in environmental and Earth sciences, with an emphasis on **atmospheric environment, its impacts, and responses**. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
 
 1. Atmospheric environment, its impacts, and responses:<br/>
-\- Socioeconomic drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health<br/>
-\- Atmospheric environment simulation and satellite remote sensing monitoring<br/>
-\- Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
-1. Renewable energy and climate change mitigation:<br/>
-\- Satellite remote sensing monitoring of renewable energy infrastructure (e.g., solar photovoltaic panels)<br/>
-\- Environmental impact analysis of renewable energy infrastructure (e.g., solar photovoltaic panels)
-1. AI-enabled sustainable energy and environmental research
-1. <b>More innovative research directions and scientific questions await your exploration!</b>
+1.1. Socioeconomic drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health<br/>
+1.2. Atmospheric environment simulation and satellite remote sensing monitoring<br/>
+1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
+2. Renewable energy and climate change mitigation:<br/>
+2.1. Satellite remote sensing monitoring of renewable energy infrastructure (e.g., solar photovoltaic panels)<br/>
+2.2. Environmental impact analysis of renewable energy infrastructure (e.g., solar photovoltaic panels)
+3. AI-enabled sustainable energy and environmental research
+4. <b>More innovative research directions and scientific questions await your exploration!
 
 课题组长期致力于环境与地球科学领域交叉学科研究，重点关注**大气环境及影响与应对**。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
 
 1. 大气环境及影响与应对：<br/>
-\- 大气环境变化的社会经济驱动及其对能源与健康的影响<br/>
-\- 大气环境模拟与卫星遥感监测<br/>
-\- 多重大气环境影响减缓的权衡与协同效应
-1. 可再生能源与减缓气候变化：<br/>
-\- 可再生能源基础设施（如太阳能光伏面板）卫星遥感监测<br/>
-\- 可再生能源基础设施（如太阳能光伏面板）环境影响分析
-1. AI赋能可持续能源与环境研究
-1. <b>更多有趣的研究方向和科学问题等你来提出！</b>
+1.1. 大气环境变化的社会经济驱动及其对能源与健康的影响<br/>
+1.2. 大气环境模拟与卫星遥感监测<br/>
+1.3. 多重大气环境影响减缓的权衡与协同效应
+2. 可再生能源与减缓气候变化：<br/>
+2.1. 可再生能源基础设施（如太阳能光伏面板）卫星遥感监测<br/>
+2.2. 可再生能源基础设施（如太阳能光伏面板）环境影响分析
+3. AI赋能可持续能源与环境研究
+4. <b>更多有趣的研究方向和科学问题等你来提出！
 
 <!-- 1和2用于Research页面，其中2为stay tuned -->
 
