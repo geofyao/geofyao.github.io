@@ -119,18 +119,10 @@ Stay tuned.
 
 **2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测**
 
-We are interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
+Stay tuned.
 
 ---
 
 **2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
 
 Stay tuned.
-
----
-
-**3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
-
----
-
-**4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
