@@ -14,7 +14,7 @@ Coming soon
 
 **We are seeking passionate Ph.D., Master, and Undergraduate students to join the team!**
 
-**欢迎对大气污染、气候变化及清洁能源感兴趣的同学们（博士生、硕士生、本科生）加入我们！**
+**欢迎对大气污染、气候变化、清洁能源及AI技术感兴趣的同学们（博士生、硕士生、本科生）加入我们！**
 
 We focus on interdisciplinary research in in environmental and Earth sciences, with an emphasis on **the atmospheric environment, its impacts, and responses, renewable energy and climate change mitigation, and AI-enabled sustainable energy and environmental research**. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
 
