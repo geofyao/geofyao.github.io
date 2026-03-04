@@ -36,7 +36,7 @@ permalink: /proposals.html
 **2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
 
 2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测
-- 如太阳能光伏面板卫星遥感检测
+- 太阳能光伏面板卫星遥感检测
 
 2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析
 - 大规模太阳能光伏面板布设的多重环境影响分析
