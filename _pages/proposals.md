@@ -6,18 +6,9 @@ sitemap: false
 permalink: /proposals.html
 ---
 
-We focus on interdisciplinary research in in environmental and Earth sciences, with an emphasis on **atmospheric environment, its impacts, and responses**. Our research topics include satellite remote sensing of atmospheric environment and energy infrastructure, the driving factors of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health, as well as the trade-offs and synergies in mitigating multiple atmospheric environmental impacts. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
+**1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
 
-课题组长期致力于环境与地球科学领域交叉学科研究，重点关注**大气环境及影响与应对**。具体研究内容包括大气环境与能源基础设施的卫星遥感监测、大气环境变化的驱动因素及其对能源与健康的影响、多重大气环境影响减缓的权衡与协同效应等。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
-
-**1. Satellite remote sensing of atmospheric environment and energy infrastructure \| 大气环境和能源基础设施的卫星遥感监测**
-- 大气污染物近地面浓度卫星遥感估算（hindcast → forecast）
-- 大气污染物及其前体物排放卫星遥感反演
-- 能源基础设施（如太阳能光伏面板）卫星遥感检测
-<!-- - 城市热岛 -->
-<!-- - 甲烷点源排放 -->
-
-**2. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
+**1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
 - A review article (pvpm)
 - xSRR (neasrr done, globsrr ongoing, cnrsrr pending)
 - 臭氧污染的环境健康效应及其社会经济驱动（globsrr ongoing）
@@ -32,7 +23,24 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 <!-- - 大气化学-气象相互作用对太阳能光伏发电影响（基于WRF-GC） -->
 <!-- - 气溶胶-云相互作用对太阳能光伏发电影响 -->
 
-**3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
+**1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测**
+- 大气污染物近地面浓度卫星遥感估算（hindcast → forecast）
+- 大气污染物及其前体物排放卫星遥感反演
+<!-- - 城市热岛 -->
+<!-- - 甲烷点源排放 -->
+
+**1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
 - 跨学科综合模型的机器学习实现（基于xSRR/ccaa等项目积累数据）
 - 多重大气环境影响评估的伴随实现
+
+**2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
+
+**2.1. Satellite remote sensing monitoring of renewable energy infrastructure (e.g., solar photovoltaic panels) \| 可再生能源基础设施（如太阳能光伏面板）卫星遥感监测**
+- 如太阳能光伏面板卫星遥感检测
+
+**2.2. Environmental impact analysis of renewable energy infrastructure (e.g., solar photovoltaic panels) \| 可再生能源基础设施（如太阳能光伏面板）环境影响分析**
 - 大规模太阳能光伏面板布设的多重环境影响分析
+
+**3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
+
+**4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
