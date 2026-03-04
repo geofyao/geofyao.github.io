@@ -8,7 +8,7 @@ permalink: /join-us/
 
 Coming soon
 
-<!-- 夏令营与保研推免信息
+<!-- 夏令营与保研推免信息 -->
 
 ---
 
@@ -18,15 +18,29 @@ Coming soon
 
 We focus on interdisciplinary research in in environmental and Earth sciences, with an emphasis on **atmospheric environment, its impacts, and responses**. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. Current and planned research projects include, but are not limited to:
 
+1. Atmospheric environment, its impacts, and responses:
+   - Socioeconomic drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health
+   - Atmospheric environment simulation and satellite remote sensing monitoring
+   - Trade-offs and synergies in mitigating multiple atmospheric environmental impacts
+2. Renewable energy and climate change mitigation:
+   - Satellite remote sensing monitoring of renewable energy infrastructure (e.g., solar photovoltaic panels)
+   - Environmental impact analysis of renewable energy infrastructure (e.g., solar photovoltaic panels)
+3. AI-enabled sustainable energy and environmental research
+4. <b>More innovative research directions and scientific questions await your exploration!</b>
+
 课题组长期致力于环境与地球科学领域交叉学科研究，重点关注**大气环境及影响与应对**。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。目前拟开展的具体研究课题包括但不限于：
 
-1. Socioeconomic drivers of anthropogenic atmospheric emissions \| 人为源大气排放的社会经济驱动
-2. Impacts of atmospheric pollution and deposition on solar photovoltaic power generation \| 大气污染及其沉降影响太阳能光伏发电
-3. Atmospheric environmental changes and their impacts on public health \| 大气环境变化的人群健康效应
-4. Satellite remote sensing monitoring of energy infrastructure \| 能源基础设施的卫星遥感监测
-5. Satellite remote sensing of atmospheric environment \| 大气环境卫星遥感
-6. Applications of artificial intelligence in atmospheric environmental research \| 人工智能在大气环境研究中的应用
-7. <b>More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！</b>
+1. 大气环境及影响与应对：
+   - 大气环境变化的社会经济驱动及其对能源与健康的影响
+   - 大气环境模拟与卫星遥感监测
+   - 多重大气环境影响减缓的权衡与协同效应
+2. 可再生能源与减缓气候变化：
+   - 可再生能源基础设施（如太阳能光伏面板）卫星遥感监测
+   - 可再生能源基础设施（如太阳能光伏面板）环境影响分析
+3. AI赋能可持续能源与环境研究
+4. <b>更多有趣的研究方向和科学问题等你来提出！</b>
+
+<!-- 1和2用于Research页面，其中2为stay tuned -->
 
 **Please contact Dr. Fei Yao (Fei.Yao@ed.ac.uk). When contacting, please include the following materials:**
 
@@ -38,4 +52,4 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.
 
-<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。 -->
+<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。
