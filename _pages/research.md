@@ -72,6 +72,8 @@ Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yin2026substantial.webp" style="width: 80%;">
 </div>
 
+---
+
 **1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测**
 
 We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track emissions (e.g., NO<sub>x</sub>) that drive atmospheric environmental conditions near the surface (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
@@ -105,9 +107,13 @@ Guo, H., Li, W.<sup>\*</sup>, Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 
 
 Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 
+---
+
 **1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
 
 Stay tuned.
+
+---
 
 **2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
 
@@ -115,10 +121,16 @@ Stay tuned.
 
 We are interested in applying state-of-the-science computer vision approaches to detect energy infrastructure (e.g., solar energy panels) from satellite remote sensing imagery.
 
+---
+
 **2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
 
 Stay tuned.
 
+---
+
 **3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
+
+---
 
 **4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
