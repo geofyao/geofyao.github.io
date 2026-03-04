@@ -15,6 +15,7 @@ permalink: /publications/
 (* Corresponding author; # co-first author; Group members are shown in **bold**)
 
 <!-- **Publication list (First or Corres. Author/All)** -->
+<!-- Search \.</b> and minus 1 to get the number of First or Corres. Author -->
 
 ## In Progress
 
