@@ -8,7 +8,7 @@ permalink: /proposals.html
 
 **1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
 
-**1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
+1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响
 - A review article (pvpm)
 - xSRR (neasrr done, globsrr ongoing, cnrsrr pending)
 - 臭氧污染的环境健康效应及其社会经济驱动（globsrr ongoing）
@@ -23,22 +23,22 @@ permalink: /proposals.html
 <!-- - 大气化学-气象相互作用对太阳能光伏发电影响（基于WRF-GC） -->
 <!-- - 气溶胶-云相互作用对太阳能光伏发电影响 -->
 
-**1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测**
+1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测
 - 大气污染物近地面浓度卫星遥感估算（hindcast → forecast）
 - 大气污染物及其前体物排放卫星遥感反演
 <!-- - 城市热岛 -->
 <!-- - 甲烷点源排放 -->
 
-**1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应**
+1.3. Trade-offs and synergies in mitigating multiple atmospheric environmental impacts \| 多重大气环境影响减缓的权衡与协同效应
 - 跨学科综合模型的机器学习实现（基于xSRR/ccaa等项目积累数据）
 - 多重大气环境影响评估的伴随实现
 
 **2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
 
-**2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测**
+2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测
 - 如太阳能光伏面板卫星遥感检测
 
-**2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
+2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析
 - 大规模太阳能光伏面板布设的多重环境影响分析
 
 **3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
