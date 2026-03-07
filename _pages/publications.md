@@ -12,7 +12,7 @@ permalink: /publications/
 
 **Fei Yao has published 20 peer-reviewed articles (10 as first and/or corresponding authors—all JCR Q1, over half in CAS Q1 TOP, three in Nature Index journals).** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
-(Corresponding author<sup>\*</sup>; co-first author<sup>#</sup>; group members are shown in **bold**)
+(Corresponding author<sup>\*</sup>; co-first author<sup>#</sup>; group members are shown in **bold** when they are first and/or corresponding authors)
 
 <!-- **Publication list (First or Corres. Author/All)** -->
 <!-- Search \.</b> and minus 1 to get the number of First or Corres. Author -->
