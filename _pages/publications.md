@@ -16,6 +16,7 @@ permalink: /publications/
 
 <!-- **Publication list (First or Corres. Author/All)** -->
 <!-- Search \.</b> and minus 1 to get the number of First or Corres. Author -->
+<!-- Word中倒叙显示通过为每一条记录设置Restart numbering和Start at XXX来实现 -->
 
 ## In Progress
 
