@@ -1,13 +1,15 @@
 - name: Fei Yao (姚飞) (PI)
   photo: geofyao.jpg
-  info: XXX, started MM YYYY
+  info: Assistant Professor, started March 2026
   email: Fei.Yao@ed.ac.uk
-  number_educ: 5
-  education1: Postdoc, University of Edinburgh
-  education2: PhD, University of Edinburgh
-  education3: MSc, Peking University
-  education4: BSc, East China Normal University
-  education5: <a href="https://geofyao.github.io/geofyao.html">学院教师主页</a> | <a href="https://geofyao.github.io/geofyao.html">Beyond academics</a>
+  number_educ: 7
+  education1: Research Scientist, University of Edinburgh
+  education2: Postdoc, University of Edinburgh
+  education3: PhD, University of Edinburgh
+  education4: MSc, Peking University
+  education5: BSc, East China Normal University
+  education6: 学院教师主页<a href="https://lcc.sjtu.edu.cn/Data/View/4613">中文</a>、学院教师主页<a href="https://lcc.sjtu.edu.cn/En/Data/View/4614">英文</a>
+  education7: <a href="https://geofyao.github.io/geofyao.html">Beyond academics</a>
 
 - name: This could be you!
   photo: wny.jpg
