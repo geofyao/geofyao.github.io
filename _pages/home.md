@@ -9,8 +9,7 @@ permalink: /
 <!-- Note that a VPN will make this webpage easier to access! -->
 
 **Welcome to the E5 Nexus Lab at the [China-UK Low Carbon College](https://lcc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).**
-
-The group is led by **Dr. Fei Yao (fei.yao@sjtu.edu.cn)**.
+The group is led by Dr. Fei Yao (fei.yao@sjtu.edu.cn).
 
 We focus on a wide range of topics at the **nexus** of renewable **energy**, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment and renewable energy:
 - Atmospheric environment, its impacts, and responses
