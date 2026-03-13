@@ -8,7 +8,7 @@ permalink: /publications/
 
 **Publish ~~or Perish~~. Now ~~or Never~~. Done ~~is better than perfect~~.**
 
-**E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since YYYY.**
+**E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
 **Fei Yao has published 20 peer-reviewed articles, including 10 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 

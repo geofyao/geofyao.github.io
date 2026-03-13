@@ -6,11 +6,9 @@ sitemap: false
 permalink: /join-us/
 ---
 
-Coming soon
-
 <!-- 夏令营与保研推免信息 -->
 
-<!-- ---
+<!-- --- -->
 
 **We are seeking passionate Ph.D., Master, and Undergraduate students to join the team!**
 
@@ -30,9 +28,9 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 1. **AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
 1. **More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
 
-Please contact Dr. Fei Yao (Fei.Yao@ed.ac.uk). When contacting, please include the following materials:
+Please contact Dr. Fei Yao (fei.yao@sjtu.edu.cn). When contacting, please include the following materials:
 
-请联系姚飞博士（Fei.Yao@ed.ac.uk），联系时建议附以下材料：
+请联系姚飞博士（fei.yao@sjtu.edu.cn），联系时建议附以下材料：
 
 1. **A cover letter** stating why you are interested in joining our group \| 动机说明信
 2. **Curriculum Vitae (CV)** (in Chinese or English) \| 个人简历（中英文均可）
@@ -40,4 +38,4 @@ Please contact Dr. Fei Yao (Fei.Yao@ed.ac.uk). When contacting, please include t
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.
 
-<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。 -->
+<b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。

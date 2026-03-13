@@ -8,9 +8,9 @@ permalink: /
 
 <!-- Note that a VPN will make this webpage easier to access! -->
 
-**Welcome to the E5 Nexus Lab at XXX of XXX.**
+**Welcome to the E5 Nexus Lab at the [China-UK Low Carbon College](https://lcc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).**
 
-The group is led by **Dr. Fei Yao (Fei.Yao@ed.ac.uk)**.
+The group is led by **Dr. Fei Yao (fei.yao@sjtu.edu.cn)**.
 
 We focus on a wide range of topics at the **nexus** of renewable **energy**, the atmospheric **environment**, public health (**epidemiology**), the **economy**, and **ecosystem** health, with a particular emphasis on the atmospheric environment and renewable energy:
 - Atmospheric environment, its impacts, and responses
@@ -19,8 +19,6 @@ We focus on a wide range of topics at the **nexus** of renewable **energy**, the
 <!-- - 大气环境及影响与应对 -->
 <!-- - 可再生能源与减缓气候变化 -->
 <!-- - AI赋能可持续能源与环境研究 -->
-
-<!-- The order of the three research directions above largely follows the conceptual framework. Nonetheless, for HWYQ, we will follow the structure of my SJTU presentation to emphasize my work on the second topic. -->
 
 <!-- We use “atmospheric environment” rather than “atmospheric composition” to encompass not only emissions and concentrations of air pollutants and greenhouse gases, but also weather-related variables such as temperature and wind speed. -->
 
@@ -54,8 +52,8 @@ We focus on a wide range of topics at the **nexus** of renewable **energy**, the
   </a>
 </div>
 
-Our research is primarily based on **Earth Observation** data and **computational models**, including process-based models (e.g., GEOS-Chem, PVLIB-Python), data assimilation (e.g., adjoint methods), and artificial intelligence (e.g., XXX).
+Our research is primarily based on **Earth Observation** data and **computational models**, including process-based models (e.g., GEOS-Chem, PVLIB-Python), data assimilation (e.g., adjoint methods), and artificial intelligence.
 
 **We are seeking passionate Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!**
 
-We are grateful for the funding from XXX and XXX.
+We are grateful for the funding from Shanghai Jiao Tong University and XXX.
