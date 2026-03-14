@@ -31,14 +31,12 @@ We focus on interdisciplinary research in in environmental and Earth sciences, w
 
 4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！
 
-Please contact Dr. Fei Yao (fei.yao@sjtu.edu.cn). When contacting, please include the following materials:
-
+Please contact Dr. Fei Yao (fei.yao@sjtu.edu.cn). When contacting, please include the following materials:<br/>
 请联系姚飞博士（fei.yao@sjtu.edu.cn），联系时建议附以下材料：
 
 1\. Curriculum Vitae (CV) in Chinese or English (**required**) \| 中或英文简历（**必须**）<br/>
 2\. A cover letter stating why you are interested in joining our group (recommended) \| 动机说明信（建议）<br/>
 3\. Other materials demonstrating your qualifications or abilities (optional) \| 其他能体现申请人能力的材料（非必须）
 
-**Note:** There is no need to attach certificates or publications; you can simply list them in the CV.
-
+**Note:** There is no need to attach certificates or publications; you can simply list them in the CV.<br/>
 <b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。
