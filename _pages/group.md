@@ -10,7 +10,7 @@ permalink: /group/
 
 <!-- Group (and individual) meetings will point to an online calendar/document that will be updated regularly. -->
 
-## Current Group Members
+### Current Group Members
 
 <!-- Also see our [Alumni List](#alumni-list) and [Group Photos](#group-photos) -->
 
