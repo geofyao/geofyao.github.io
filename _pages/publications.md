@@ -20,9 +20,11 @@ permalink: /publications/
 
 ## In Progress
 
-22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. Submitted.
+<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>Submitted</i>.
 
-<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Under Review.
+22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. <i>Submitted</i>.
+
+<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Submitted</i>.
 
 ## Peer-reviewed
 

@@ -97,7 +97,7 @@ Stay tuned.
 <b>Yao, F.</b>, Si, M., Li, W.<sup>\*</sup> and Wu, J.<sup>\*</sup>, 2018. A multidimensional comparison between MODIS and VIIRS AOD in estimating ground-level PM<sub>2.5</sub> concentrations over a heavily polluted region in China. <i>Science of the Total Environment</i>, 618, pp.819-828. doi: [10.1016/j.scitotenv.2017.08.209](https://www.sciencedirect.com/science/article/pii/S0048969717322076)
 
 Wu, J., Yao, F., Li, W.<sup>\*</sup> and Si, M., 2016. VIIRS-based remote sensing estimation of ground-level PM<sub>2.5</sub> concentrations in Beijing–Tianjin–Hebei: A spatiotemporal statistical model. <i>Remote Sensing of Environment</i>, 184, pp.316-328. doi: [10.1016/j.rse.2016.07.015](https://www.sciencedirect.com/science/article/pii/S0034425716302735)<br/>
-*Supervisor as first author.*
+Supervisor as first author
 
 Guo, H., Li, W.<sup>\*</sup>, Yao, F., Wu, J., Zhou, X., Yue, Y. and Yeh, A.G., 2020. Who are more exposed to PM<sub>2.5</sub> pollution: A mobile phone data approach. <i>Environment International</i>, 143, p.105821. doi: [10.1016/j.envint.2020.105821](https://www.sciencedirect.com/science/article/pii/S0160412020317761)
 

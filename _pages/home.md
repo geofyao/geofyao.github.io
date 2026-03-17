@@ -53,6 +53,6 @@ We focus on a wide range of topics at the **nexus** of renewable **energy**, the
 
 Our research is primarily based on **Earth Observation** data and **computational models**, including process-based models (e.g., GEOS-Chem, PVLIB-Python), data assimilation (e.g., adjoint methods), and artificial intelligence.
 
-**We are seeking passionate Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!**
+**We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!**
 
 We are grateful for the funding from Shanghai Jiao Tong University and XXX.

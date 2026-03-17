@@ -14,8 +14,6 @@ permalink: /group/
 
 <!-- Also see our [Alumni List](#alumni-list) and [Group Photos](#group-photos) -->
 
-**We are seeking passionate Ph.D., Master, and Undergraduate students to join the team (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
-
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
