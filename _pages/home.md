@@ -55,4 +55,4 @@ Our research is primarily based on **Earth Observation** data and **computationa
 
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/join-us))!**
 
-We are grateful for the funding from Shanghai Jiao Tong University and XXX.
+We are grateful for the funding from Shanghai Jiao Tong University.
