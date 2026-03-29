@@ -11,7 +11,7 @@ permalink: /proposals.html
 1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响
 - A review article (pvpm)
 - xSRR (neasrr done, globsrr ongoing, cnrsrr pending)
-- 臭氧污染的环境健康效应及其社会经济驱动（globsrr ongoing）
+- 臭氧污染的健康（人群和生态）效应及其社会经济驱动（globsrr ongoing planned for ACS ES&T or EHP）
 - 大气污染影响下太阳能光伏发电损失的动态演变及其驱动因素解析（ccaa-solar-energy China, →Global）
 - 气候变化引致的未来空气质量变化对太阳能光伏发电的影响（cncc-solar-energy）
 - 野火、沙尘和太阳能光伏发电（从单一到全事件分析，dust-solar-energy）
