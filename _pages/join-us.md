@@ -10,6 +10,10 @@ permalink: /join-us/
 
 <!-- --- -->
 
+[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
+
+---
+
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 
 **欢迎对大气污染、气候变化、清洁能源及AI技术感兴趣的同学们（博士生、硕士生、本科生）加入我们！**
