@@ -91,3 +91,20 @@ firstp {
     margin-right: 30px;
 }
 
+
+// Markdown tables (fyao, 2026-04-06)
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin: 20px 0;
+  }
+  
+  th, td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: left;
+  }
+  
+  th {
+	background-color: #f4f4f4;
+  }
