@@ -77,7 +77,7 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 `grid_indices`: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
 
 
-### Alternative empirical formula that consider only PM dimming:
+### Alternative empirical methods that consider only PM dimming:
 
 XXX
 
