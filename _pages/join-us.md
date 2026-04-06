@@ -10,11 +10,7 @@ permalink: /join-us/
 
 [FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
 
-[往年夏令营与保研推免信息](https://lcc.sjtu.edu.cn/Data/View/4262)
-
-往年统考硕士生[招生名额](https://lcc.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/学院2026年拟录取推荐免试研究生名单与统考生招生名额(1).pdf)、[复试信息](https://lcc.sjtu.edu.cn/Data/View/4626)
-
-[往年博士生招生信息](https://lcc.sjtu.edu.cn/Data/View/4415)
+[往年夏令营与保研推免信息](https://lcc.sjtu.edu.cn/Data/View/4262) \| 往年统考硕士生[招生名额](https://lcc.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/学院2026年拟录取推荐免试研究生名单与统考生招生名额(1).pdf)、[复试信息](https://lcc.sjtu.edu.cn/Data/View/4626) \| [往年博士生招生信息](https://lcc.sjtu.edu.cn/Data/View/4415)
 
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 
