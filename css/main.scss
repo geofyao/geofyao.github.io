@@ -94,17 +94,16 @@ firstp {
 
 // Markdown tables (fyao, 2026-04-06)
 table {
-	width: 100%;
 	border-collapse: collapse;
-	margin: 0;
+	width: 100%;
   }
   
   th, td {
-	border: 1px solid #ddd;
+	border: 1px solid #ccc;
 	padding: 8px;
 	text-align: left;
   }
   
   th {
-	background-color: #f4f4f4;
+	background-color: #f5f5f5;
   }
