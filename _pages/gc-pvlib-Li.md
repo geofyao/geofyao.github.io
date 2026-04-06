@@ -8,6 +8,8 @@ permalink: /gc-pvlib-Li.html
 
 This page describes the variables required to calculate the impacts of particulate matter (PM) on solar photovoltaic (PV) efficiency or capacity factor (`CF` \[unitless\]). Depending on the availability of solar PV facility data and their installed capacities, actual solar PV power generation losses can also be calculated. To calculate the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations \[µg m<sup>-3</sup>\], are needed.
 
+### `gc-pvlib-Li.py` that considers both PM dimming and soiling:
+
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gc-pvlib-Li_en.png" style="width: 100%;">
 </div>
@@ -36,7 +38,7 @@ This page describes the variables required to calculate the impacts of particula
 
 `TurDepFlux_spe`: turbulent deposition flux of a specific aerosol species \[g m<sup>-2</sup>\]
 
-_**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities (`GraDepVel_spe` and `TurDepVel_spe`) and near-surface aerosol concentrations (`AerMass`). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though._
+_**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities (`GraDepVel_spe` and `TurDepVel_spe`) and near-surface aerosol concentrations (`AerMass`). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. ~~If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though~~._
 
 `precipitation_rates`: precipitation rates at the ground \[mm h<sup>-1</sup>\]
 
@@ -73,3 +75,9 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 ---
 
 `grid_indices`: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
+
+
+### Alternative empirical formula that consider only PM dimming:
+
+XXX
+

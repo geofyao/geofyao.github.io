@@ -46,7 +46,7 @@ Refs:
 
 <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
 <br/>
-[gc-pvlib-Li](https://geofyao.github.io/gc-pvlib-Li.html)
+[gc-pvlib-Li](https://geofyao.github.io/gc-pvlib-Li.html#gc-pvlib-lipy-that-considers-both-pm-dimming-and-soiling)
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2022source.png" style="width: 50%;">
