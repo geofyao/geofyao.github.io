@@ -8,4 +8,4 @@ permalink: /group-and-individual-meetings/
 
 | When | Where | Who | What |
 | --- | --- | --- | --- |
-| Wednesdays, 19:00-21:00 | A421/Online | Individual/Group | **Research Progress**/High-profile Papers |
+| Wednesdays, 19:00-21:00 | A421\/Online | Individual\/Group | **Research Progress**\/High-profile Papers |
