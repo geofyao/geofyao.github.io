@@ -18,7 +18,7 @@ permalink: /proposals.html
 - 中国大气污染防治行动计划和三年蓝天保卫战裨益东北亚（still GC）乃至全球（→CESM potentially with Zhen）公共健康与太阳能光伏发电
 <!-- - 中国碳中和政策裨益东北亚（still GC）乃至全球（→CESM potentially with Zhen）公共健康与太阳能光伏发电 -->
 <!-- - 碳中和政策对气候变化引发的相关不利影响的抵消及区域不平等 -->
-<!-- - 分析维度扩展：成本-收益，供给-需求，闭环，等 -->
+<!-- - 分析维度扩展：Supply and its fluctuations/variability/intermittency，成本-收益，供给-需求，闭环，等 -->
 <!-- - 大气污染对生态系统健康及粮食安全的影响 -->
 <!-- - 大气化学-气象相互作用对太阳能光伏发电影响（基于WRF-GC） -->
 <!-- - 气溶胶-云相互作用对太阳能光伏发电影响 -->
