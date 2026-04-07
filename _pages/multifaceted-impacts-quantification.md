@@ -44,25 +44,27 @@ $albedo$: reflectivity of the ground surface (unitless)
 
 ---
 
+<!-- \_ and \\_ work in markdown and github-pages, respectively, to escape the underscore character -->
+
 $GraDepFlux\\_spe$: gravitational deposition flux of a specific aerosol species (g m$^{-2}$)
 
 $TurDepFlux\\_spe$: turbulent deposition flux of a specific aerosol species (g m$^{-2}$)
 
-_**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities ($GraDepVel\_spe$ and $TurDepVel\_spe$) and near-surface aerosol concentrations ($AerMass$). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. ~~If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though~~._
+_**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities ($GraDepVel\\_spe$ and $TurDepVel\\_spe$) and near-surface aerosol concentrations ($AerMass$). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. ~~If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though~~._
 
-$precipitation\_rates$: precipitation rates at the ground (mm h$^{-1}$)
-
----
-
-$temp\_air$: Air temperature (also known as dry-bulb temperature) ($^{\circ}$C)
-
-$wind\_speed$: Wind speed at a height of 10 meters (m s$^{-1}$)
+$precipitation\\_rates$: precipitation rates at the ground (mm h$^{-1}$)
 
 ---
 
-Among the five meteorological variables listed above, $temp\_air$ and $pressure$ are primarily used to adjust solar position and air mass estimates, which may influence irradiance (for example, the perez sky diffuse model requires air mass as an input), but should only to a limited extent. $albedo$ changes very slowly; however, because it directly converts $GHI$ to $E_b$, it has a strong impact on irradiance. $precipitation$ affects soiling and therefore irradiance. $temp\_air$ and $wind\_speed$ mainly affect cell temperature rather than irradiance.
+$temp\\_air$: Air temperature (also known as dry-bulb temperature) ($^{\circ}$C)
 
-**To isolate the effects of changing meteorological conditions on irradiance alone, we can keep $temp\_air$ and $wind\_speed$ the same as in the CTRL case while varying the other variables as needed.** The only drawback of this approach is that $temp\_air$ may slightly affect the solar position, and therefore irradiance, calculations. However, this impact should be minimal (see discussion <a href="https://github.com/pvlib/pvlib-python/issues/1065#issuecomment-697640969">here</a>). Hence, we may not supply an alternative $temp\_air$ source specifically for solar position calculations in both `gc-pvlib-Li.py` and `modelchain.py`, as outlined below:
+$wind\\_speed$: Wind speed at a height of 10 meters (m s$^{-1}$)
+
+---
+
+Among the five meteorological variables listed above, $temp\\_air$ and $pressure$ are primarily used to adjust solar position and air mass estimates, which may influence irradiance (for example, the perez sky diffuse model requires air mass as an input), but should only to a limited extent. $albedo$ changes very slowly; however, because it directly converts $GHI$ to $E_b$, it has a strong impact on irradiance. $precipitation$ affects soiling and therefore irradiance. $temp\\_air$ and $wind\\_speed$ mainly affect cell temperature rather than irradiance.
+
+**To isolate the effects of changing meteorological conditions on irradiance alone, we can keep $temp\\_air$ and $wind\\_speed$ the same as in the CTRL case while varying the other variables as needed.** The only drawback of this approach is that $temp\\_air$ may slightly affect the solar position, and therefore irradiance, calculations. However, this impact should be minimal (see discussion <a href="https://github.com/pvlib/pvlib-python/issues/1065#issuecomment-697640969">here</a>). Hence, we may not supply an alternative $temp\\_air$ source specifically for solar position calculations in both `gc-pvlib-Li.py` and `modelchain.py`, as outlined below:
 
 ```python
 
@@ -84,7 +86,7 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 
 ---
 
-$grid\_indices$: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
+$grid\\_indices$: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
 
 ---
 
@@ -95,12 +97,12 @@ $grid\_indices$: indices of the grid cells included in the parallel calculations
 | $DHI$ | Diffuse Horizontal Irradiance | W m$^{-2}$ |
 | $pressure$ | Air pressure | Pa |
 | $albedo$ | Reflectivity of the ground surface | 1 |
-| $GraDepFlux\_spe$ | Gravitational deposition flux of a specific aerosol species | g m$^{-2}$ |
-| $TurDepFlux\_spe$ | Turbulent deposition flux of a specific aerosol species | g m$^{-2}$ |
-| $precipitation\_rates$ | Precipitation rates at the ground | mm h$^{-1}$ |
-| $temp\_air$ | Air temperature (also known as dry-bulb temperature) | $^{\circ}$C |
-| $wind\_speed$ | Wind speed at a height of 10 meters | m s$^{-1}$ |
-| $grid\_indices$ | Indices of the grid cells included in the parallel calculations | N/A |
+| $GraDepFlux\\_spe$ | Gravitational deposition flux of a specific aerosol species | g m$^{-2}$ |
+| $TurDepFlux\\_spe$ | Turbulent deposition flux of a specific aerosol species | g m$^{-2}$ |
+| $precipitation\\_rates$ | Precipitation rates at the ground | mm h$^{-1}$ |
+| $temp\\_air$ | Air temperature (also known as dry-bulb temperature) | $^{\circ}$C |
+| $wind\\_speed$ | Wind speed at a height of 10 meters | m s$^{-1}$ |
+| $grid\\_indices$ | Indices of the grid cells included in the parallel calculations | N/A |
 
 ##### **2.2. Alternative empirical methods that can only consider PM dimming:**
 
