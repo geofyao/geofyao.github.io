@@ -3,12 +3,18 @@ title: "E5 Nexus Lab — misc"
 layout: textlay
 excerpt: "E5 Nexus Lab — misc"
 sitemap: false
-permalink: /gc-pvlib-Li.html
+permalink: /multifaceted-impacts-quantification.html
 ---
 
-This page describes the variables required to calculate the impacts of particulate matter (PM) on solar photovoltaic (PV) efficiency or capacity factor (`CF` \[unitless\]). Depending on the availability of solar PV facility data and their installed capacities, actual solar PV power generation losses can also be calculated. To calculate the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations \[µg m<sup>-3</sup>\], are needed.
+#### **1\. Public health**
 
-### `gc-pvlib-Li.py` that considers both PM dimming and soiling:
+To quantify the impacts of fine particulate matter (PM$_{2.5}$) on public health, only PM$_{2.5}$ concentrations ($\mu$g m$^{-3}$) are needed, as part of a collaboration with BNU and XMU. [Link](https://github.com/geofyao/globsrr/blob/main/communications/CRF.ipynb)
+
+#### **2\. Solar energy**
+
+As defined and used in most (though not all) studies, capacity factor (CF, unitless) is a dimensionless magnitude accounting for the performance of the PV cells with respect to their nominal power capacity according to the actual ambient conditions. Therefore, CF multiplied by the nominal installed watts of PV power capacity gives instantaneous PV power production.
+
+##### **2.1. `gc-pvlib-Li.py` that can consider both PM dimming and soiling:**
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gc-pvlib-Li_en.png" style="width: 100%;">
@@ -16,7 +22,7 @@ This page describes the variables required to calculate the impacts of particula
 
 **Each data record <u>must</u> contain coordinates for latitude, longitude, and UTC time, as well as the following variables:**
 
-`GHI`: Global Horizontal Irradiance \[W/m<sup>2</sup>\]
+$GHI$: Global Horizontal Irradiance \[W/m<sup>2</sup>\]
 
 `DNI`: Direct Normal Irridance \[W/m<sup>2</sup>\]
 
@@ -77,7 +83,7 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 `grid_indices`: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
 
 
-### Alternative empirical methods that consider only PM dimming:
+##### **2.2. Alternative empirical methods that can only consider PM dimming:**
 
 On the other hand, most studies examing the impacts of climate change and/or carbon neutrality on solar PV efficiency or capacity factor (`CF`, \[unitless\]) have primarily focused on the effects of PM dimming, while neglecting soiling. **In such cases, only downward shortwave radiation ($I$, W m$^{-2}$), ambient temperature at 2 m ($T_{2m}$, $^{\circ}$C), and wind speed at 10 m ($u_{10m}$, m s$^{-1}$) are required:**
 
@@ -118,3 +124,7 @@ All variables involved and their corresponding units are listed in the table bel
 | $c_3$ | 0.028 | $^{\circ}$C (W m$^{-2}$)$^{-1}$ |
 | $c_4$ | 1.528 | $^{\circ}$C (m s$^{-1}$)$^{-1}$ |
 | $CF$ | Capacity factor | 1 |
+
+#### **3\. Wind energy**
+
+Stay tuned.
