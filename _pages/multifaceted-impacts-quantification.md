@@ -10,7 +10,9 @@ permalink: /multifaceted-impacts-quantification.html
 
 #### **1\. Public health**
 
-To quantify the impacts of fine particulate matter (PM$_{2.5}$) on public health, only PM$_{2.5}$ concentrations ($\mu$g m$^{-3}$) are needed, as part of a collaboration with BNU and XMU. [Link](https://github.com/geofyao/globsrr/blob/main/communications/CRF.ipynb)
+To quantify the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations ($\mu$g m$^{-3}$) are needed, as part of a collaboration with BNU and XMU. [Link](https://github.com/geofyao/globsrr/blob/main/communications/CRF.ipynb)
+
+PM$_{2.5}$
 
 #### **2\. Solar energy**
 
