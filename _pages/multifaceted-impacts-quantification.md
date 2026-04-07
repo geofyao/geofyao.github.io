@@ -109,8 +109,6 @@ with $c_1 = 4.3^{\circ}C$, $c_2=0.943$, $c_3=0.028^{\circ}$C (W m$^{-2}$)$^{-1}$
 
 Hence, if ambient conditions ($I$, $T_{2m}$ and $u_{10m}$) correspond to the STCs, $CF$ equals 1 and PV power production reaches the rated value. If they are so that $T_{cell}$ is higher (lower) than 25 $^{\circ}$C and/or $I$ lower (higher) than 1,000 W m^{−2}, $CF$ will be lower (higher) than the unit and the PV power output will be lower (higher) than the nominal power of the module.
 
-All variables involved and their corresponding units are listed in the table below:
-
 | Variable | Description | Units |
 | --- | --- | --- |
 | $I$ | Downward shortwave radiation | W m$^{-2}$ |
