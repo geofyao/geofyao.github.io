@@ -44,9 +44,9 @@ $albedo$: reflectivity of the ground surface (unitless)
 
 ---
 
-$GraDepFlux\_spe$: gravitational deposition flux of a specific aerosol species (g m$^{-2}$)
+$GraDepFlux\_{spe}$: gravitational deposition flux of a specific aerosol species (g m$^{-2}$)
 
-$TurDepFlux\_spe$: turbulent deposition flux of a specific aerosol species (g m$^{-2}$)
+$TurDepFlux\_{spe}$: turbulent deposition flux of a specific aerosol species (g m$^{-2}$)
 
 _**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities ($GraDepVel\_spe$ and $TurDepVel\_spe$) and near-surface aerosol concentrations ($AerMass$). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. ~~If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though~~._
 
