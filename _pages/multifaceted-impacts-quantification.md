@@ -84,8 +84,23 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 
 ---
 
-$grid_indices$: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
+$grid\_indices$: indices of the grid cells included in the parallel calculations. This is optional but can improve performance by restricting computations to selected areas (e.g., land grids only).
 
+---
+
+| Variable | Description | Units |
+| --- | --- | --- |
+| $GHI$ | Global Horizontal Irradiance | W m$^{-2}$ |
+| $DNI$ | Direct Normal Irridance | W m$^{-2}$ |
+| $DHI$ | Diffuse Horizontal Irradiance | W m$^{-2}$ |
+| $pressure$ | Air pressure | Pa |
+| $albedo$ | Reflectivity of the ground surface | 1 |
+| $GraDepFlux\_spe$ | Gravitational deposition flux of a specific aerosol species | g m$^{-2}$ |
+| $TurDepFlux\_spe$ | Turbulent deposition flux of a specific aerosol species | g m$^{-2}$ |
+| $precipitation\_rates$ | Precipitation rates at the ground | mm h$^{-1}$ |
+| $temp\_air$ | Air temperature (also known as dry-bulb temperature) | $^{\circ}$C |
+| $wind\_speed$ | Wind speed at a height of 10 meters | m s$^{-1}$ |
+| $grid\_indices$ | Indices of the grid cells included in the parallel calculations | N/A |
 
 ##### **2.2. Alternative empirical methods that can only consider PM dimming:**
 
@@ -125,7 +140,6 @@ Hence, if ambient conditions ($I$, $T_{2m}$ and $u_{10m}$) correspond to the STC
 | $c_2$ | 0.943 | 1 |
 | $c_3$ | 0.028 | $^{\circ}$C (W m$^{-2}$)$^{-1}$ |
 | $c_4$ | 1.528 | $^{\circ}$C (m s$^{-1}$)$^{-1}$ |
-| $CF$ | Capacity factor | 1 |
 
 #### **3\. Wind energy**
 
