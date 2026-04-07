@@ -155,9 +155,7 @@ CF = \begin{cases}
 \end{cases}
 $$
 
-where $u_{cut-in}$ is the cut-in wind speed (3 m s$^{-1}$), below which the wind power turbine will not rotate; $u_{cut-out}$ is the cut-out wind speed (25 m s$^{-1}$), above which the wind power turbine will shut down for safety reasons; and $u_{rated}$ is the rated wind speed (12 m s$^{-1}$), at which the turbine reaches its nominal power output.
-
-To derive $u_{100m}$ from the wind speed at 10 m ($u_{10m}$, m s$^{-1}$), the authors use the wind profile formula:
+where $u_{cut-in}$ is the cut-in wind speed (3 m s$^{-1}$), below which the wind power turbine will not rotate; $u_{cut-out}$ is the cut-out wind speed (25 m s$^{-1}$), above which the wind power turbine will shut down for safety reasons; and $u_{rated}$ is the rated wind speed (12 m s$^{-1}$), at which the turbine reaches its nominal power output. To derive $u_{100m}$ from the wind speed at 10 m ($u_{10m}$, m s$^{-1}$), the authors use the wind profile formula:
 
 $$
 u_{100m} = u_{10m} \left( \frac{100}{10} \right)^{\alpha},
