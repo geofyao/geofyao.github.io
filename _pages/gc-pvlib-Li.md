@@ -44,7 +44,7 @@ _**We distinguish between gravitational and turbulent deposition fluxes**, as gr
 
 ---
 
-`temp_air`: Air temperature (also known as dry-bulb temperature) \[C\]
+`temp_air`: Air temperature (also known as dry-bulb temperature) \[$^{\circ}$C\]
 
 `wind_speed`: Wind speed at a height of 10 meters \[m/s\]
 
@@ -79,5 +79,49 @@ self._prep_inputs_solar_pos(kwargs=press_temp) # press_temp => kwargs=press_temp
 
 ### Alternative empirical methods that consider only PM dimming:
 
-XXX
+On the other hand, most studies examing the impacts of climate change and/or carbon neutrality on solar PV efficiency or capacity factor (`CF`, \[unitless\]) have primarily focused on the effects of PM dimming, while neglecting soiling. **In such cases, only downward shortwave radiation ($I$, W m$^{-2}$), ambient temperature at 2 m ($T_{2m}$, $^{\circ}$C), and wind speed at 10 m ($u_{10m}$, m s$^{-1}$) are required:**
+
+```math
+
+CF = P_R \frac{I}{I_{STC}},
+
+```
+
+where STC refers to the standard test conditions ($I_{STC}=1000$ W m$^{-2}$), those for which the nominal capacity of a PV devive is determined as its measured power output, and $P_R$ is the so-called performance ratio, formulated to account for changes of the PV cells efficiency due to changes in their temperature as:
+
+```math
+
+P_R = 1 - \gamma (T_{cell} - T_{STC}),
+
+```
+
+where $T_{cell}$ in the PV cell temperature, $T_{STC}$=25 $^{\circ}$C and $\gamma$ is taken here as 0.005 $^{\circ}$C$^{-1}$, considering the typical response of monocrystalline silicon solar panels. Finally, Finally, $T_{cell}$ is modelled considering the effects of $T_{2m}$, $I$, and $u_{10m}$ on it as:
+
+```math
+
+T_{cell} = c_1 + c_2 T_{2m} + c_3 I - c_4 u_{10m},
+
+```
+
+with $c_1 = 4.3^{\circ}C$, $c_2=0.943$, $c_3=0.028^{\circ}C (W~m^{-2})^{-1}$, $c_4=1.528^{\circ}C (m~s^{-1})^{-1}$.
+
+Hence, if ambient conditions ($I$, $T_{2m}$ and $u_{10m}$) correspond to the STCs, `CF` equals 1 and PV power production reaches the rated value. If they are so that $T_{cell}$ is higher (lower) than 25 $^{\circ}$C and/or $I$ lower (higher) than 1,000 W m^{−2}, `CF` will be lower (higher) than the unit and the PV power output will be lower (higher) than the nominal power of the module.
+
+All variables involved and their corresponding units are listed in the table below:
+
+| Variable | Description | Units |
+| --- | --- | --- |
+| $I$ | Downward shortwave radiation | W m$^{-2}$ |
+| $T_{2m}$ | Ambient temperature at 2 m | $^{\circ}$C |
+| $u_{10m}$ | Wind speed at 10 m | m s$^{-1}$ |
+| $I_{STC}$ | Shortwave radiation on PV panels under standard test conditions (1000 W m$^{-2}$) | W m$^{-2}$ |
+| $P_R$ | Performance ratio | 1 |
+| $T_{cell}$ | Cell temmperature | $^{\circ}$C |
+| $T_{STC}$ | Cell temmperature under standard test conditions (25 $^{\circ}$C) | $^{\circ}$C |
+| $\gamma$ | 0.005 | $^{\circ}$C$^{-1}$ |
+| $c_1$ | 4.3 | $^{\circ}$C |
+| $c_2$ | 0.943 | 1 |
+| $c_3$ | 0.028 | $^{\circ}$C (W m$^{-2}$)$^{-1}$ |
+| $c_4$ | 1.528 | $^{\circ}$C (m s$^{-1}$)$^{-1}$ |
+| $CF$ | Capacity factor | 1 |
 
