@@ -18,6 +18,8 @@ As defined and used in most (though not all) studies, capacity factor (CF, unitl
 
 ##### **2.1. My `gc-pvlib-Li.py` that can consider both PM dimming and soiling:**
 
+Refs: [Bergin et al., *ES&TL*, 2017](https://pubs.acs.org/doi/10.1021/acs.estlett.7b00197), [Li et al., *NS*, 2020](https://www.nature.com/articles/s41893-020-0553-2), [Yao and Palmer, *ES&T*, 2022](https://pubs.acs.org/doi/10.1021/acs.est.2c01175), [Yao et al., *ES&T*, 2025](https://pubs.acs.org/doi/10.1021/acs.est.5c05935), [Yin et al., *CEE*, 2026](https://www.nature.com/articles/s43247-025-03123-1), etc.
+
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gc-pvlib-Li_en.png" style="width: 100%;">
 </div>
