@@ -145,13 +145,7 @@ Hence, if ambient conditions ($I$, $T_{2m}$ and $u_{10m}$) correspond to the STC
 
 #### **3\. Wind energy**
 
-In [Qin et al., *NG*, 2024](https://www.nature.com/articles/s41561-024-01425-1), the wind capacity factor is simply derived from the wind speed at 100 m ($u_{100m}$, m s$^{-1}$), which is estimated from the wind speed at 10 m ($u_{10m}$, m s$^{-1}$):
-
-$$
-u_{100m} = u_{10m} \left( \frac{100}{10} \right)^{\alpha},
-$$
-
-where the scaling factor $\alpha$ represents how quickly the wind decays towards the ground, and is offten approximated as a constant of 0.143 over land surfaces. Then, the wind capacity factor ($CF$, unitless) is calculated based on the following piecewise function of $u_{100m}$:
+In [Qin et al., *NG*, 2024](https://www.nature.com/articles/s41561-024-01425-1), the wind capacity factor is simply derived from a piecewise function of the wind speed at 100 m ($u_{100m}$, m s$^{-1}$):
 
 $$
 CF = \begin{cases}
@@ -162,6 +156,15 @@ CF = \begin{cases}
 $$
 
 where $u_{cut-in}$ is the cut-in wind speed (3 m s$^{-1}$), below which the wind power turbine will not rotate; $u_{cut-out}$ is the cut-out wind speed (25 m s$^{-1}$), above which the wind power turbine will shut down for safety reasons; and $u_{rated}$ is the rated wind speed (12 m s$^{-1}$), at which the turbine reaches its nominal power output.
+
+To derive $u_{100m}$ from the wind speed at 10 m ($u_{10m}$, m s$^{-1}$), the authors use the wind profile formula:
+
+$$
+u_{100m} = u_{10m} \left( \frac{100}{10} \right)^{\alpha},
+$$
+
+where the scaling factor $\alpha$ represents how quickly the wind decays towards the ground, and is offten approximated as a constant of 0.143 over land surfaces.
+
 
 | Variable | Description | Units |
 | --- | --- | --- |
