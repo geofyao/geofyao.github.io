@@ -12,8 +12,6 @@ permalink: /multifaceted-impacts-quantification.html
 
 To quantify the impacts of fine particulate matter (PM<sub>2.5</sub>) on public health, only PM<sub>2.5</sub> concentrations ($\mu$g m$^{-3}$) are needed, as part of a collaboration with BNU and XMU. [Link](https://github.com/geofyao/globsrr/blob/main/communications/CRF.ipynb)
 
-PM$_{2.5}$
-
 #### **2\. Solar energy**
 
 As defined and used in most (though not all) studies, capacity factor (CF, unitless) is a dimensionless magnitude accounting for the performance of the PV cells with respect to their nominal power capacity according to the actual ambient conditions. Therefore, CF multiplied by the nominal installed watts of PV power capacity gives instantaneous PV power production.
