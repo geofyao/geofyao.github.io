@@ -12,6 +12,12 @@ permalink: /publications/
 
 **Fei Yao has published 20 peer-reviewed articles, including 10 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
+<!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
+
+<!-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57190273161) -->
+
+<!-- [ResearcherID](https://www.webofscience.com/wos/author/record/N-7389-2017) -->
+
 (Corresponding author<sup>\*</sup>; co-first author<sup>#</sup>; group members are shown in **bold** when they are first and/or corresponding authors)
 
 <!-- **Publication list (First or Corres. Author/All)** -->

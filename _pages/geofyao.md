@@ -35,6 +35,10 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 银河帝国3：第二基地（Second Foundation）
 
+银河帝国4：基地前奏（Prelude to Foundation）
+
+银河帝国5：迈向基地（Forward the Foundation）
+
 <b>机器人系列</b>
 
 XXX
