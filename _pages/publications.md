@@ -30,7 +30,7 @@ permalink: /publications/
 
 22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. Submitted.
 
-<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. Accepted for publication in <i>Journal of Hazardous Materials</i>.
+<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, in press. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
 
 ## Peer-reviewed
 
