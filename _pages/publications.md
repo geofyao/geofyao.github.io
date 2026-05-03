@@ -35,6 +35,8 @@ permalink: /publications/
 ## Peer-reviewed
 
 <b>20\.</b> Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2026. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
+<br/>
+[中文解读](https://mp.weixin.qq.com/s/Ixk5YXGvnPwciEcxT1jsUQ)
 
 19\. Wang, H., Maslanka, W., Palmer, P.I.<sup>\*</sup>, Wooster, M.J., Wang, H., Yao, F., Feng, L., Wu, K., Lu, X.<sup>\*</sup> and Fan, S.<sup>\*</sup>, 2025. Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone. <i>Atmospheric Chemistry and Physics</i>, 25(23), pp.17501-17526. doi: [10.5194/acp-25-17501-2025](https://acp.copernicus.org/articles/25/17501/2025/)
 
@@ -42,10 +44,12 @@ permalink: /publications/
 <br/>
 <!-- [PDF](https://geofyao.github.io/downloads/PDF/18_yao2025attribution.pdf) -->
 
-<b>17\.</b> Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://doi.org/10.1289/EHP14550)
+<b>17\.</b> Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/)
 <br/>
-[Full text available at PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/)
-<!-- *[Environmental Health Perspectives joins the ACS Publications portfolio](https://www.acs.org/pressroom/newsreleases/2026/january/environmental-health-perspectives-joins-the-acs-publications-portfolio.html)*<br/> -->
+中文解读[1](https://mp.weixin.qq.com/s/hjGIYhMZVxSzEEOOeXf9Rg)、[2](https://mp.weixin.qq.com/s/Z8pYXlBtblG6SlhSr0M3yw)
+<!-- <br/> -->
+<!-- *[Environmental Health Perspectives joins the ACS Publications portfolio](https://www.acs.org/pressroom/newsreleases/2026/january/environmental-health-perspectives-joins-the-acs-publications-portfolio.html)* -->
+<!-- <br/> -->
 <!-- *[EHP was taken down on 1 December 2025 due to a lack of government support](https://envirodatagov.org/niehss-only-journal-environmental-health-perspectives-is-suddenly-removed/). Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).* -->
 
 <b>16\.</b> Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
@@ -57,6 +61,8 @@ permalink: /publications/
 [gc-pvlib-Li](https://geofyao.github.io/multifaceted-impacts-quantification.html#21-my-gc-pvlib-lipy-that-can-consider-both-pm-dimming-and-soiling)
 
 13\. Liu, J.<sup>\*</sup>, Li, J. and Yao, F., 2022. Source-receptor relationship of transboundary particulate matter pollution between China, South Korea and Japan: Approaches, current understanding and limitations. <i>Critical Reviews in Environmental Science and Technology</i>, 52(21), pp.3896-3920. doi: [10.1080/10643389.2021.1964308](https://doi.org/10.1080/10643389.2021.1964308)
+<br/>
+[中文解读](https://mp.weixin.qq.com/s/3PjqrHK6mF09rUcD3Yfpkg)
 
 12\. Wu, J.<sup>\*</sup>, Wang, Y., Liang, J. and Yao, F., 2021. Exploring common factors influencing PM<sub>2.5</sub> and O<sub>3</sub> concentrations in the Pearl River Delta: Tradeoffs and synergies. <i>Environmental Pollution</i>, 285(117138), pp.10-1016. doi: [10.1016/j.envpol.2021.117138](https://doi.org/10.1016/j.envpol.2021.117138)
 
