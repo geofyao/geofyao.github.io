@@ -10,7 +10,7 @@ permalink: /publications/
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
-**Fei Yao has published 20 peer-reviewed articles, including 10 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
+**Fei Yao has published 21 peer-reviewed articles, including 11 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
@@ -30,9 +30,9 @@ permalink: /publications/
 
 22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. Submitted.
 
-<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, in press. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
-
 ## Peer-reviewed
+
+<b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, 511, p.142172. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
 
 <b>20\.</b> Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2026. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
 <br/>
