@@ -33,6 +33,8 @@ permalink: /publications/
 ## Peer-reviewed
 
 <b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, 511, p.142172. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
+<br/>
+中文解读[1](https://mp.weixin.qq.com/s/VBZBCDvb6MueG5mZ3nsBoQ)、[2](https://mp.weixin.qq.com/s/uQwmSpp664DIyY3zHJ1gbA)
 
 <b>20\.</b> Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*</sup> and Yi, B.<sup>\*</sup>, 2026. Substantial reduction of solar photovoltaic potential in China by an extreme dust event. <i>Communications Earth & Environment</i>, 7(1), p.44. doi: [10.1038/s43247-025-03123-1](https://doi.org/10.1038/s43247-025-03123-1)
 <br/>
