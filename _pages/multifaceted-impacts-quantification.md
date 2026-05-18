@@ -24,7 +24,7 @@ Refs: [Bergin et al., *ES&TL*, 2017](https://pubs.acs.org/doi/10.1021/acs.estlet
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gc-pvlib-Li_en.png" style="width: 100%;">
 </div>
 
-**Each data record <u>must</u> contain coordinates for latitude, longitude, and UTC time, as well as the following variables:**
+**Each data record <u>must</u> contain coordinates for latitude, longitude, and UTC time (must be every three hours or more frequently to facilitate the calculation of solar position for tracking and DNI/DHI $\leftarrow$ GHI), as well as the following variables:**
 
 $GHI$: Global Horizontal Irradiance (W m$^{-2}$)
 
@@ -46,9 +46,9 @@ $albedo$: reflectivity of the ground surface (unitless)
 
 <!-- \_ and \\_ work in markdown and github-pages, respectively, to escape the underscore character -->
 
-$GraDepFlux\\_spe$: gravitational deposition flux of a specific aerosol species (g m$^{-2}$)
+$GraDepFlux\\_spe$: gravitational deposition flux of a specific aerosol species (kg m$^{-2}$ s$^{-1}$ integrated over time $\rightarrow$ g m$^{-2}$)
 
-$TurDepFlux\\_spe$: turbulent deposition flux of a specific aerosol species (g m$^{-2}$)
+$TurDepFlux\\_spe$: turbulent deposition flux of a specific aerosol species (kg m$^{-2}$ s$^{-1}$ integrated over time $\rightarrow$ g m$^{-2}$)
 
 _**We distinguish between gravitational and turbulent deposition fluxes**, as gravitational deposition is reduced on tilted panels whereas turbulent deposition is not. These fluxes may also be derived from the product of deposition velocities ($GraDepVel\\_spe$ and $TurDepVel\\_spe$) and near-surface aerosol concentrations ($AerMass$). For aerosol species, **we require at least a separation between secondary inorganic aerosols (sulfate + nitrate + ammonia), black carbon, organic carbon, and dust** because of their different optical effects on solar panels. More detailed speciation is acceptable, as it can be aggregated within the coupling code. ~~If gravitational and turbulent deposition fluxes/velocities cannot be readily distinguished, we consider separate them using aerosol composition. For instance, coarse dust particles are predominantly associated with gravitational settling, whereas other species are mainly governed by turbulent deposition. Relevant supporting literature will be required, though~~._
 
@@ -97,8 +97,8 @@ $grid\\_indices$: indices of the grid cells included in the parallel calculation
 | $DHI$ | Diffuse Horizontal Irradiance | W m$^{-2}$ |
 | $pressure$ | Air pressure | Pa |
 | $albedo$ | Reflectivity of the ground surface | 1 |
-| $GraDepFlux\\_spe$ | Gravitational deposition flux of a specific aerosol species | g m$^{-2}$ |
-| $TurDepFlux\\_spe$ | Turbulent deposition flux of a specific aerosol species | g m$^{-2}$ |
+| $GraDepFlux\\_spe$ | Gravitational deposition flux of a specific aerosol species | kg m$^{-2}$ s$^{-1}$ integrated over time $\rightarrow$ g m$^{-2}$ |
+| $TurDepFlux\\_spe$ | Turbulent deposition flux of a specific aerosol species | kg m$^{-2}$ s$^{-1}$ integrated over time $\rightarrow$ g m$^{-2}$ |
 | $precipitation\\_rates$ | Precipitation rates at the ground | mm h$^{-1}$ |
 | $temp\\_air$ | Air temperature (also known as dry-bulb temperature) | $^{\circ}$C |
 | $wind\\_speed$ | Wind speed at a height of 10 meters | m s$^{-1}$ |
