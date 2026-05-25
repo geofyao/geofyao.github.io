@@ -12,6 +12,10 @@ permalink: /join-us/
 
 [上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后](https://postd.sjtu.edu.cn/info/1086/6695.htm)
 
+欢迎依托中英国际低碳学院申报上海交通大学思源博士后（海外引才）项目！ [中文启事](https://lcc.sjtu.edu.cn/Data/View/4624)、[英文启事](https://lcc.sjtu.edu.cn/En/Data/View/4655)
+
+上海交通大学中英国际低碳学院2026年海外优秀博士后招聘[中文启事](https://lcc.sjtu.edu.cn/Data/View/4620)、[英文启事](https://lcc.sjtu.edu.cn/En/Data/View/4656)
+
 [上海交通大学中英国际低碳学院2027年研究生招生宣讲会](https://mp.weixin.qq.com/s/GTjvgDogZLhYEPWqSwNpmA)
 
 ---
