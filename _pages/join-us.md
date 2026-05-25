@@ -16,6 +16,8 @@ permalink: /join-us/
 
 ---
 
+[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
+
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 
 **欢迎对大气污染、气候变化、清洁能源及AI技术感兴趣的同学们（博士后、博士生、硕士生、本科生）加入我们！**
@@ -46,5 +48,3 @@ Please contact Dr. Fei Yao (fei.yao@sjtu.edu.cn). When contacting, please includ
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.<br/>
 <b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。
-
-[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
