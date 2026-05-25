@@ -6,10 +6,6 @@ sitemap: false
 permalink: /join-us/
 ---
 
-<!-- 夏令营与保研推免信息 -->
-
-[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
-
 [PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS)
 
 [上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=1e1014ca79cb40548c0c79c0f731c4fc)
@@ -17,6 +13,8 @@ permalink: /join-us/
 [上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后](https://postd.sjtu.edu.cn/info/1086/6695.htm)
 
 [上海交通大学中英国际低碳学院2027年研究生招生宣讲会](https://mp.weixin.qq.com/s/GTjvgDogZLhYEPWqSwNpmA)
+
+---
 
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 
@@ -48,3 +46,5 @@ Please contact Dr. Fei Yao (fei.yao@sjtu.edu.cn). When contacting, please includ
 
 **Note:** There is no need to attach certificates or publications; you can simply list them in the CV.<br/>
 <b>说明：</b>不需要附各类证书和发表论文，只需在简历中列出即可。
+
+[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
