@@ -10,7 +10,15 @@ permalink: /join-us/
 
 [FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
 
-[往年夏令营与保研推免信息](https://lcc.sjtu.edu.cn/Data/View/4262) \| 往年统考硕士生[招生名额](https://lcc.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/学院2026年拟录取推荐免试研究生名单与统考生招生名额(1).pdf)、[复试信息](https://lcc.sjtu.edu.cn/Data/View/4626) \| [往年博士生招生信息](https://lcc.sjtu.edu.cn/Data/View/4415)
+上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后
+<br/>
+[上海交通大学人才招聘网启事](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=1e1014ca79cb40548c0c79c0f731c4fc)
+<br/>
+[上海交通大学博士后网启事](https://postd.sjtu.edu.cn/info/1086/6695.htm)
+
+[PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS)
+
+[上海交通大学中英国际低碳学院2027年研究生招生宣讲会](https://mp.weixin.qq.com/s/GTjvgDogZLhYEPWqSwNpmA)
 
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 

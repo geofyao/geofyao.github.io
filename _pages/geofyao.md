@@ -39,9 +39,13 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 银河帝国5：迈向基地（Forward the Foundation）
 
+银河帝国6：基地边缘（Foundation's Edge）
+
+银河帝国7：基地与地球（Foundation and Earth）
+
 <b>机器人系列</b>
 
-XXX
+银河帝国8：我，机器人（I, Robot）
 
 <b>帝国系列</b>
 
