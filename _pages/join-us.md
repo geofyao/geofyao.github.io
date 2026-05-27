@@ -18,7 +18,7 @@ permalink: /join-us/
 
 ---
 
-[FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq)
+<!-- [FAQs by Applicants]({{ site.url }}{{ site.baseurl }}/faq) -->
 
 **We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team!**
 
