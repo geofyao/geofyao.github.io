@@ -6,7 +6,7 @@ sitemap: false
 permalink: /join-us/
 ---
 
-[PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A0=MET-JOBS)
+[PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A2=MET-JOBS;7640ef31.2605D&S=)
 
 上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后！[中文启事1](https://join.sjtu.edu.cn/Admin/QsPreview.aspx?qsid=1e1014ca79cb40548c0c79c0f731c4fc)、[中文启事2](https://postd.sjtu.edu.cn/info/1086/6695.htm)
 
