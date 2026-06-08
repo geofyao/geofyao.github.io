@@ -4,8 +4,11 @@
 # - date: 2026-XX-XX
 #   headline: '<b>Congrats to XXX on his/her paper published in <a href="XXX"><i>XXX</i><a>!</b>'
 
+- date: 2026-06-06
+  headline: 'Fei Yao attended <a href="https://mp.weixin.qq.com/s/xA0FtzE6OmlaSOOWruvmTQ">the Annual Meeting of Carbon Footprints in Wuhan, China.</a>'
+
 - date: 2026-05-06
-  headline: '<a href="https://mp.weixin.qq.com/s/Z3z8-nmMmVPzXNgyNSU_sw">Fei Yao has joined the Youth Editorial Board of <i>Carbon Footprints</i>!</a>'
+  headline: '<a href="https://mp.weixin.qq.com/s/Z3z8-nmMmVPzXNgyNSU_sw">Fei Yao joined the Youth Editorial Board of <i>Carbon Footprints</i>!</a>'
 
 - date: 2026-04-26
   headline: '<b>Our co-author paper has been published in <a href="https://doi.org/10.1016/j.jhazmat.2026.142172"><i>Journal of Hazardous Materials</i></a>!</b>'

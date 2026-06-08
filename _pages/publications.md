@@ -26,9 +26,11 @@ permalink: /publications/
 
 ## In Progress
 
-<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. EGUsphere [preprint]. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
+24\. Huang, L., Liu, X., Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L., 2026. Shifting dominance from biogenic VOCs to soil NOx for China's ozone sensitivity under sustained mitigation and climate change. <i>Submitted</i>.
 
-22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. Submitted.
+<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>EGUsphere [preprint]</i>. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
+
+22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Climate Effect of Biomass Burning Aerosol from Key Biomass Burning Regions. <i>Submitted</i>.
 
 ## Peer-reviewed
 
