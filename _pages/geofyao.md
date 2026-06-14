@@ -49,6 +49,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 银河帝国9：钢穴（The Caves of Steel）
 
+银河帝国10：裸阳（The Naked Sun）
+
 <b>帝国系列</b>
 
 XXX
