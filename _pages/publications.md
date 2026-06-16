@@ -10,7 +10,7 @@ permalink: /publications/
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
-**Fei Yao has published 21 peer-reviewed articles, including 11 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
+**Fei Yao has published 22 peer-reviewed articles, including 11 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
