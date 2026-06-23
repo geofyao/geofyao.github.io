@@ -14,7 +14,7 @@ In general, opportunities may exist for PostDoc, Ph.D., Master, and Undergraduat
 
 [上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后！](https://postd.sjtu.edu.cn/info/1086/6695.htm)
 
-<div style="text-align: center; margin: 10px 0;">
+<div style="text-align: left; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg" style="width: 40%;">
 </div>
 
