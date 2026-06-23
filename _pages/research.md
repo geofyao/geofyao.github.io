@@ -8,9 +8,13 @@ permalink: /research/
 
 **~~Life~~Research is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein**
 
-We focus on interdisciplinary research in environmental and Earth sciences, with an emphasis on the [atmospheric environment, its impacts, and responses](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对), [renewable energy and climate change mitigation](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化), and AI-enabled sustainable energy and environmental research. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. The work that we have done/currently do/will do includes but is not limited to the following:
+---
 
-课题组长期致力于环境与地球科学领域交叉学科研究，重点关注[大气环境影响及应对](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对)、[可再生能源与减缓气候变化](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化)、以及AI赋能可持续能源与环境研究。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。我们已完成/正在进行/将要开展的工作包括但不限于以下内容：
+We focus on interdisciplinary research in environmental and Earth sciences, with an emphasis on [1) atmospheric environment, its impacts, and responses](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对), [2) renewable energy and climate change mitigation](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化), and [3) AI-enabled sustainable energy and environmental research](#3-ai-enabled-sustainable-energy-and-environmental-research--ai赋能可持续能源与环境研究). We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. The work that we have done/currently do/will do includes but is not limited to the following:
+
+课题组长期致力于环境与地球科学领域交叉学科研究，重点关注[（1）大气环境影响及应对](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对)、[（2）可再生能源与减缓气候变化](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化)、以及[（3）AI赋能可持续能源与环境研究](#3-ai-enabled-sustainable-energy-and-environmental-research--ai赋能可持续能源与环境研究)。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。我们已完成/正在进行/将要开展的工作包括但不限于以下内容：
+
+---
 
 #### **1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
 
@@ -105,6 +109,8 @@ Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</
 
 Stay tuned.
 
+---
+
 #### **2\. Renewable energy and climate change mitigation \| 可再生能源与减缓气候变化**
 
 ##### **2.1. Satellite remote sensing monitoring of renewable energy infrastructure \| 可再生能源基础设施卫星遥感监测**
@@ -115,8 +121,12 @@ Stay tuned.
 
 Stay tuned.
 
+---
+
 #### **3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
 
 The research areas listed above involve the use of AI to varying degrees, and we will continue to explore and expand the application of AI in these and other research directions.
+
+---
 
 #### **4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
