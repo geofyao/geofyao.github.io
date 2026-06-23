@@ -6,6 +6,10 @@ sitemap: false
 permalink: /group/
 ---
 
+**Alone we can do so little, together we can do so much. — Helen Keller**
+
+**We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
+
 ### Current Group Members
 
 <!-- Also see our [Alumni List](#alumni-list) and [Group Photos](#group-photos) -->
