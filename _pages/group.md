@@ -6,10 +6,6 @@ sitemap: false
 permalink: /group/
 ---
 
-**[Group-and-Individual-Meetings]({{ site.url }}{{ site.baseurl }}/group-and-individual-meetings) \| [Group-Knowledge-Base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base)**
-
-<!-- Group (and individual) meetings will point to an online calendar/document that will be updated regularly. -->
-
 ### Current Group Members
 
 <!-- Also see our [Alumni List](#alumni-list) and [Group Photos](#group-photos) -->
