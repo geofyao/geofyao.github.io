@@ -8,23 +8,17 @@ permalink: /research/
 
 **~~Life~~Research is like riding a bicycle. To keep your balance, you must keep moving. — Albert Einstein**
 
-Jump to [Atmospheric environment, its impacts, and responses](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对) and [Renewable energy and climate change mitigation](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化).
+We focus on interdisciplinary research in environmental and Earth sciences, with an emphasis on the [atmospheric environment, its impacts, and responses](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对), [renewable energy and climate change mitigation](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化), and AI-enabled sustainable energy and environmental research. We use a range of research approaches, including emission inventories and input–output models (GTAP); global and regional atmospheric chemical transport models (GEOS-Chem, WRF-GC, etc.) equipped with radiative transfer modules (RRTMG); solar photovoltaic performance models (PVLIB-Python); health impact models (Global Burden of Disease, GBD); adjoint modelling; and machine learning and statistical methods. The work that we have done/currently do/will do includes but is not limited to the following:
+
+课题组长期致力于环境与地球科学领域交叉学科研究，重点关注[大气环境影响及应对](#1-atmospheric-environment-its-impacts-and-responses--大气环境及影响与应对)、[可再生能源与减缓气候变化](#2-renewable-energy-and-climate-change-mitigation--可再生能源与减缓气候变化)、以及AI赋能可持续能源与环境研究。主要研究手段包括排放清单和投入产出模型（GTAP）、配备辐射传输模块（RRTMG）的全球和区域尺度大气化学传输模式（GEOS-Chem, WRF-GC等）、太阳能光伏发电模型（PVLIB-Python）、健康效应模型（Global Burden of Disease, GBD）、伴随模式（Adjoint modelling）、机器学习和统计方法等。我们已完成/正在进行/将要开展的工作包括但不限于以下内容：
+
+#### **1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
 
 As illustrated in the figure below, our research addresses a conceptual system in which natural and anthropogenic activities generate **emissions** of air pollutants and greenhouse gases. These constituents are transported and transformed in the atmosphere, ultimately influencing solar energy generation, public health, and ecosystem health, among other **impacts**. In **response** to these environmental effects, policy interventions are implemented, which in turn can modify emissions. Our research examines this conceptual system as a whole, while also investigating its individual components.
 
 <div style="text-align: center; margin: 10px 0;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/E5_Nexus_Lab.jpg" style="width: 80%;">
 </div>
-
-**We welcome researchers and students interested in any aspect of the conceptual system described above to join us and/or collaborate with our team in developing solutions and strategies to address these environmental challenges (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
-
-<div style="text-align: center; margin: 10px 0;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Collaboration.jpg" style="width: 40%;">
-</div>
-
-The work that we have done/currently do/will do:
-
-#### **1\. Atmospheric environment, its impacts, and responses \| 大气环境及影响与应对**
 
 ##### **1.1. Drivers of atmospheric environmental variations and their impacts on energy, public health, and ecosystem health \| 大气环境变化的驱动因素及其对能源与健康的影响**
 
@@ -70,7 +64,7 @@ Yin, K.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Luo, N., Gao, M., Lu, X.<sup>\*
 
 ##### **1.2. Atmospheric environment simulation and satellite remote sensing monitoring \| 大气环境模拟与卫星遥感监测**
 
-We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track emissions (e.g., NO<sub>x</sub>) that drive atmospheric environmental conditions near the surface (e.g., PM<sub>2.5</sub> and the urban heat island), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
+We use both process-based models (e.g., GEOS-Chem) and statistical and machine learning methods to track emissions (e.g., NO<sub>x</sub>) that drive atmospheric environmental conditions near the surface (e.g., PM<sub>2.5</sub> concentrations), which are most relevant to public health. We combine these ground-level environmental estimates with individual mobility and socioeconomic data to examine disparities in exposure across different population groups. The research findings inform atmospheric environmental management policies and environmental equity efforts.
 
 Refs:
 
@@ -78,7 +72,13 @@ Refs:
 
 Stay tuned.
 
-**<u>Atmospheric environmental conditions (PM<sub>2.5</sub>):</u>**
+**<u>Atmospheric environmental conditions (PM<sub>2.5</sub> concentrations):</u>**
+
+<b></b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, 511, p.142172. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/liu2026multiview.jpg" style="width: 80%;">
+</div>
 
 <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2021. A model framework to reduce bias in ground-level PM<sub>2.5</sub> concentrations inferred from satellite-retrieved AOD. <i>Atmospheric Environment</i>, 248, p.118217. doi: [10.1016/j.atmosenv.2021.118217](https://www.sciencedirect.com/science/article/pii/S1352231021000352)
 
@@ -114,3 +114,9 @@ Stay tuned.
 ##### **2.2. Environmental impact analysis of renewable energy infrastructure \| 可再生能源基础设施环境影响分析**
 
 Stay tuned.
+
+#### **3\. AI-enabled sustainable energy and environmental research \| AI赋能可持续能源与环境研究**
+
+The research areas listed above involve the use of AI to varying degrees, and we will continue to explore and expand the application of AI in these and other research directions.
+
+#### **4\. More innovative research directions and scientific questions await your exploration! \| 更多有趣的研究方向和科学问题等你来提出！**
