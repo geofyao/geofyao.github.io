@@ -26,7 +26,7 @@ permalink: /publications/
 
 ## In Progress
 
-24\. Huang, L.<sup>\*</sup>, Liu, X., Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L., 2026. Mitigation and climate change shift China’s ozone sensitivity from biogenic VOCs to soil NO$_x$. <i>Submitted</i>.
+24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Sensitivity to Soil NO$_x$ Relative to Biogenic VOCs. <i>Submitted</i>.
 
 <b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>EGUsphere [preprint]</i>. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
 
