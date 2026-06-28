@@ -16,7 +16,7 @@ In general, opportunities may exist for PostDoc, Ph.D., Master, and Undergraduat
 
 [上海交通大学中英国际低碳学院招聘大气环境与可再生能源方向博士后！](https://postd.sjtu.edu.cn/info/1086/6695.htm)
 
-欢迎海外博士依托申报上海交通大学优秀博士后项目：
+欢迎海外博士依托申报上海交通大学思源/优秀博士后项目：
 - [国家级海外引才](https://lcc.sjtu.edu.cn/Data/View/4624)
 - [上海市海外引才](https://lcc.sjtu.edu.cn/Data/View/4620)
 
