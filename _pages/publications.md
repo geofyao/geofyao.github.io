@@ -10,7 +10,7 @@ permalink: /publications/
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
-**Fei Yao has published 22 peer-reviewed articles, including 11 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
+**Fei Yao has published 22 peer-reviewed articles, including 11 as first and/or corresponding authors, with 4 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
@@ -46,9 +46,12 @@ permalink: /publications/
 
 <b>18\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. <i>Environmental Science & Technology</i>, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 <br/>
+**Nature Index**
 <!-- [PDF](https://geofyao.github.io/downloads/PDF/18_yao2025attribution.pdf) -->
 
 <b>17\.</b> Liu, J.<sup>#</sup>, <b>Yao, F.<sup>#</sup></b>, Chen, H.<sup>\*</sup> and Zhao, H.<sup>\*</sup>, 2025. Quantifying the Source–Receptor Relationships of PM<sub>2.5</sub> Pollution and Associated Health Impacts among China, South Korea, and Japan: A Dual Perspective and an Interdisciplinary Approach. <i>Environmental Health Perspectives</i>, 133(3-4), p.047011. doi: [10.1289/EHP14550](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/)
+<br/>
+**Nature Index**
 <br/>
 中文解读[1](https://mp.weixin.qq.com/s/hjGIYhMZVxSzEEOOeXf9Rg)、[2](https://mp.weixin.qq.com/s/Z8pYXlBtblG6SlhSr0M3yw)
 <!-- <br/> -->
@@ -57,10 +60,14 @@ permalink: /publications/
 <!-- *[EHP was taken down on 1 December 2025 due to a lack of government support](https://envirodatagov.org/niehss-only-journal-environmental-health-perspectives-is-suddenly-removed/). Currently, published EHP articles, including [ours](https://pmc.ncbi.nlm.nih.gov/articles/PMC12036670/), remain available at [PubMed Central (PMC)](https://pmc.ncbi.nlm.nih.gov).* -->
 
 <b>16\.</b> Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
+<br/>
+**Nature Index**
 
 15\. Marvin, M.R.<sup>\*</sup>, Palmer, P.I., Yao, F., Latif, M.T. and Khan, M.F., 2024. Uncertainties from biomass burning aerosols in air quality models obscure public health impacts in Southeast Asia. <i>Atmospheric Chemistry and Physics</i>, 24(6), pp.3699-3715. doi: [10.5194/acp-24-3699-2024](https://acp.copernicus.org/articles/24/3699/2024/)
 
 <b>14\.</b> <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
+<br/>
+**Nature Index**
 <br/>
 [gc-pvlib-Li](https://geofyao.github.io/multifaceted-impacts-quantification.html#21-my-gc-pvlib-lipy-that-can-consider-both-pm-dimming-and-soiling)
 
