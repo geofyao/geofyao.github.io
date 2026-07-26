@@ -53,6 +53,8 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 银河帝国11：曙光中的机器人（The Robots of Dawn）
 
+银河帝国12：机器人与帝国（Robots and Empire）
+
 <b>帝国系列</b>
 
 XXX
