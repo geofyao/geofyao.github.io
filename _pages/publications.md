@@ -28,11 +28,11 @@ permalink: /publications/
 
 24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Sensitivity to Soil NO$_x$ Relative to Biogenic VOCs. <i>Submitted</i>.
 
-<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>EGUsphere [preprint]</i>. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
+<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. Accepted for publication in <i>Atmospheric Chemistry and Physics</i>. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
 
 ## Peer-reviewed
 
-22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Direct Radiative Effects of Biomass Burning Aerosols from Key Biomass Burning Regions. <i>Climate</i>, 14(6), p.125. doi: [https://doi.org/10.3390/cli14060125](https://www.mdpi.com/2225-1154/14/6/125)
+22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Direct Radiative Effects of Biomass Burning Aerosols from Key Biomass Burning Regions. <i>Climate</i>, 14(6), p.125. doi: [10.3390/cli14060125](https://www.mdpi.com/2225-1154/14/6/125)
 
 <b>21\.</b> Liu, J., Zheng, Z., <b>Yao, F.<sup>\*</sup></b> and Li, W.<sup>\*</sup>, 2026. A multi-view machine learning approach for estimating PM<sub>2.5</sub> concentrations from smartphone photographs. <i>Journal of Hazardous Materials</i>, 511, p.142172. doi: [10.1016/j.jhazmat.2026.142172](https://doi.org/10.1016/j.jhazmat.2026.142172)
 <br/>
