@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-**Publish ~~or Perish~~. Now ~~or Never~~. Done ~~is better than perfect~~.**
+**Publish ~~or Perish~~. Now ~~or Never~~. [Writing is thinking!](https://www.nature.com/articles/s44222-025-00323-4) Done ~~is better than perfect~~.**
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
