@@ -57,7 +57,11 @@ Jump to [the books I have read](#the-books-i-have-read) and [the places I have e
 
 <b>帝国系列</b>
 
-XXX
+银河帝国13：繁星若尘（The Stars, Like Dust）
+
+银河帝国14：星空暗流（The Currents of Space）
+
+银河帝国15：苍穹一粟（Pebble in the Sky）
 
 </div>
 
