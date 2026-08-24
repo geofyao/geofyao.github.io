@@ -333,9 +333,13 @@ etc.
 
 **2026**
 
+June in Nan'An, Fujian, China for travelling (with Lingying and her family)
+
+June in Wuhan, China for Carbon Footprints conference
+
 **March moved back to Shanghai to start a faculty journey at Shanghai Jiao Tong University!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU.JPG){: style="width: 60%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/Welcome_to_SJTU.JPG){: style="width: 100%; float: center; margin: 10px"}
 
 **2025**
 
@@ -398,7 +402,7 @@ September in Leeds, UK for NCEO Annual Conference
 
 <b>May in Edinburgh, UK for a half marathon!</b>
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 40%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/edin_half_marathon.jpg){: style="width: 100%; float: center; margin: 10px"}
 
 </div>
 
@@ -453,7 +457,7 @@ November in Oxford, UK for Atm-Bio
 
 **September moved to Edinburgh, UK to start a PhD journey!**
 
-![]({{ site.url }}{{ site.baseurl }}/images/newspic/UoE_cropped.jpg){: style="width: 80%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/UoE_cropped.jpg){: style="width: 100%; float: center; margin: 10px"}
 
 July in Beijing for graduation ceremony (with Mom and others)
 
