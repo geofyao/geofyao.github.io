@@ -8,6 +8,23 @@ permalink: /geofyao.html
 
 **Life is nothing but an electron looking for a place to rest. — Albert Szent-Györgyi (1937 Nobel Laureate)**
 
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+<h4>The books I have read</h4>
+XXX
+XXX
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>The places I have explored</h4>
+XXX
+XXX
+</div>
+
+</div>
+
+
 Jump to [the books I have read](#the-books-i-have-read) and [the places I have explored](#the-places-i-have-explored).
 
 ### The books I have read:
