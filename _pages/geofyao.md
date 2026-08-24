@@ -331,7 +331,7 @@ etc.
 
 <div class="col-sm-6 clearfix">
 
-### The places I have explored:
+### The places I have explored
 
 **2026**
 
