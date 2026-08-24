@@ -8,38 +8,10 @@ permalink: /geofyao.html
 
 **Life is nothing but an electron looking for a place to rest. — Albert Szent-Györgyi (1937 Nobel Laureate)**
 
-**A reader lives a thousand lives before he dies. The man who never reads lives only one. — George R.R. Martin, A Dance with Dragons**
-
-**携书如历三千世，无书唯度一平生。**
-
 <div class="row">
-
 <div class="col-sm-6 clearfix">
+
 ### The books I have read
-
-**2026 (X)**
-
-XXX
-
-XXX
-
-</div>
-
-<div class="col-sm-6 clearfix">
-### The places I have explored
-
-XXX
-
-XXX
-
-</div>
-
-</div>
-
-
-Jump to [the books I have read](#the-books-i-have-read) and [the places I have explored](#the-places-i-have-explored).
-
-### The books I have read:
 
 **A reader lives a thousand lives before he dies. The man who never reads lives only one. — George R.R. Martin, A Dance with Dragons**
 
@@ -354,6 +326,10 @@ Murder on the Orient Express, authored by Dame Agatha Mary Clarissa Christie
 
 etc.
 
+</div>
+
+<div class="col-sm-6 clearfix">
+
 ### The places I have explored:
 
 **2026**
@@ -570,3 +546,7 @@ October in Hefei (University of Science and Technology of China) for Mathematica
 <!-- 2009 and before: 安徽省池州市贵池区 -->
 
 Study and live in Chizhou, Anhui, China
+
+</div>
+</div>
+
