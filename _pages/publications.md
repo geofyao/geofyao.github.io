@@ -43,6 +43,8 @@ permalink: /publications/
 [中文解读](https://mp.weixin.qq.com/s/Ixk5YXGvnPwciEcxT1jsUQ)
 
 19\. Wang, H., Maslanka, W., Palmer, P.I.<sup>\*</sup>, Wooster, M.J., Wang, H., Yao, F., Feng, L., Wu, K., Lu, X.<sup>\*</sup> and Fan, S.<sup>\*</sup>, 2025. Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone. <i>Atmospheric Chemistry and Physics</i>, 25(23), pp.17501-17526. doi: [10.5194/acp-25-17501-2025](https://acp.copernicus.org/articles/25/17501/2025/)
+<br/>
+[EGUSphere Preprint egusphere-2025-2594](https://doi.org/10.5194/egusphere-2025-2594)
 
 <b>18\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I., Liu, J., Chen, H. and Wang, Y., 2025. Attribution of Solar Energy Yield Gaps due to Transboundary Particulate Matter Pollution Associated with Trade across Northeast Asia. <i>Environmental Science & Technology</i>, 59(29), pp.15092-15100. doi: [10.1021/acs.est.5c05935](https://pubs.acs.org/doi/10.1021/acs.est.5c05935)
 <br/>
@@ -64,6 +66,8 @@ permalink: /publications/
 **Nature Index**
 
 15\. Marvin, M.R.<sup>\*</sup>, Palmer, P.I., Yao, F., Latif, M.T. and Khan, M.F., 2024. Uncertainties from biomass burning aerosols in air quality models obscure public health impacts in Southeast Asia. <i>Atmospheric Chemistry and Physics</i>, 24(6), pp.3699-3715. doi: [10.5194/acp-24-3699-2024](https://acp.copernicus.org/articles/24/3699/2024/)
+<br/>
+[EGUSphere Preprint egusphere-2023-1232](https://doi.org/10.5194/egusphere-2023-1232)
 
 <b>14\.</b> <b>Yao, F.<sup>\*</sup></b> and Palmer, P.I., 2022. Source Sector Mitigation of Solar Energy Generation Losses Attributable to Particulate Matter Pollution. <i>Environmental Science & Technology</i>, 56(12), pp.8619-8628. doi: [10.1021/acs.est.2c01175](https://pubs.acs.org/doi/full/10.1021/acs.est.2c01175)
 <br/>
