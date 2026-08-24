@@ -12,8 +12,17 @@ permalink: /geofyao.html
 
 <div class="col-sm-6 clearfix">
 <h4>The books I have read</h4>
+
+**A reader lives a thousand lives before he dies. The man who never reads lives only one. — George R.R. Martin, A Dance with Dragons**
+
+**携书如历三千世，无书唯度一平生。**
+
+**2026 (X)**
+
 XXX
+
 XXX
+
 </div>
 
 <div class="col-sm-6 clearfix">
