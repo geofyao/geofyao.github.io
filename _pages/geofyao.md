@@ -8,14 +8,14 @@ permalink: /geofyao.html
 
 **Life is nothing but an electron looking for a place to rest. — Albert Szent-Györgyi (1937 Nobel Laureate)**
 
-<div class="row">
-
-<div class="col-sm-6 clearfix">
-<h4>The books I have read</h4>
-
 **A reader lives a thousand lives before he dies. The man who never reads lives only one. — George R.R. Martin, A Dance with Dragons**
 
 **携书如历三千世，无书唯度一平生。**
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+### The books I have read
 
 **2026 (X)**
 
@@ -26,9 +26,12 @@ XXX
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4>The places I have explored</h4>
+### The places I have explored
+
 XXX
+
 XXX
+
 </div>
 
 </div>
