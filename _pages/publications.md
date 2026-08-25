@@ -10,7 +10,7 @@ permalink: /publications/
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
-**Fei Yao has published 22 peer-reviewed articles, including 11 as first and/or corresponding authors, with 4 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
+**Fei Yao has published 23 peer-reviewed articles, including 12 as first and/or corresponding authors, with 4 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
@@ -28,9 +28,11 @@ permalink: /publications/
 
 24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Sensitivity to Soil NO$_x$ Relative to Biogenic VOCs. <i>Submitted</i>.
 
-<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. Accepted for publication in <i>Atmospheric Chemistry and Physics</i>. doi: [10.5194/egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
-
 ## Peer-reviewed
+
+<b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>Atmospheric Chemistry and Physics</i>, 26(16), pp.12049–12066. doi: [10.5194/acp-26-12049-2026](https://acp.copernicus.org/articles/26/12049/2026/)
+<br/>
+[EGUSphere Preprint egusphere-2026-1499](https://doi.org/10.5194/egusphere-2026-1499)
 
 22\. Shi, S.<sup>\*</sup>, Palmer, P.I. and Yao, F., 2026. Direct Radiative Effects of Biomass Burning Aerosols from Key Biomass Burning Regions. <i>Climate</i>, 14(6), p.125. doi: [10.3390/cli14060125](https://www.mdpi.com/2225-1154/14/6/125)
 
