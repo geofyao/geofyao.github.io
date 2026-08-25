@@ -74,7 +74,11 @@ Refs:
 
 **<u>Emissions:</u>**
 
-Stay tuned.
+<b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>Atmospheric Chemistry and Physics</i>, 26(16), pp.12049–12066. doi: [10.5194/acp-26-12049-2026](https://acp.copernicus.org/articles/26/12049/2026/)
+
+<div style="text-align: center; margin: 10px 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/yao2026gems.png" style="width: 80%;">
+</div>
 
 **<u>Atmospheric environmental conditions (PM<sub>2.5</sub> concentrations):</u>**
 
