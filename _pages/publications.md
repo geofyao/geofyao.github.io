@@ -10,7 +10,7 @@ permalink: /publications/
 
 **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.**
 
-**Fei Yao has published 23 peer-reviewed articles, including 12 as first and/or corresponding authors, with 4 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
+**Fei Yao has published 23 peer-reviewed articles, including 12 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.** [Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
@@ -65,7 +65,6 @@ permalink: /publications/
 
 <b>16\.</b> Wang, Y., Wang, H., <b>Yao, F.<sup>\*</sup></b>, Stouffs, R. and Wu, J.<sup>\*</sup>, 2024. An integrated framework for jointly assessing spatiotemporal dynamics of surface urban heat island intensity and footprint: China, 2003–2020. <i>Sustainable Cities and Society</i>, 112, p.105601. doi: [10.1016/j.scs.2024.105601](https://doi.org/10.1016/j.scs.2024.105601)
 <br/>
-**Nature Index**
 
 15\. Marvin, M.R.<sup>\*</sup>, Palmer, P.I., Yao, F., Latif, M.T. and Khan, M.F., 2024. Uncertainties from biomass burning aerosols in air quality models obscure public health impacts in Southeast Asia. <i>Atmospheric Chemistry and Physics</i>, 24(6), pp.3699-3715. doi: [10.5194/acp-24-3699-2024](https://acp.copernicus.org/articles/24/3699/2024/)
 <br/>
