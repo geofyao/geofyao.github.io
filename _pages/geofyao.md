@@ -335,7 +335,7 @@ etc.
 
 **2026**
 
-June in Nan'An, Fujian, China for travelling (with Lingying and her family)
+June/August in Nan'An, Fujian, China for travelling (with Lingying and her family)
 
 June in Wuhan, China for Carbon Footprints conference
 
