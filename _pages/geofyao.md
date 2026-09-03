@@ -413,6 +413,8 @@ September in Peebles for hiking
 
 July in Scotland (Edinburgh, Glasgow, Inverness—The Isle of Skye, and Perth) for graduation trip (with Jize Jiang and Linqi XU)
 
+[July in Edinburgh for graduation ceremony](https://edinburgh.stageclip.com/clip/fei-yao-221e2?type=other)
+
 March in Sirling—Loch Katrine for a group trip (the first since the pandemic)
 
 **2021**
