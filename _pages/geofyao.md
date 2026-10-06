@@ -19,6 +19,8 @@ permalink: /geofyao.html
 
 **2026 (X)**
 
+飘，玛格丽特·米切尔著，朱攸若译
+
 <div style="
     border: 1px solid black;
     width: fit-content;
