@@ -8,7 +8,7 @@ permalink: /group/
 
 **Alone we can do so little, together we can do so much. — Helen Keller**
 
-**We are seeking passionate PostDoc, Ph.D., Master, and Undergraduate students to join the team (see [join-us]({{ site.url }}{{ site.baseurl }}/join-us))!**
+[group-knowledge-base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base/)
 
 ### Current Group Members
 
