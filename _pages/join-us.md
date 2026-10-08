@@ -10,7 +10,7 @@ In general, opportunities may exist for PostDoc, Ph.D., Master, and Undergraduat
 
 **欢迎对大气污染、气候变化、清洁能源及AI技术感兴趣的同学们（博士后、博士生、硕士生、本科生）加入我们！**
 
-<font color='red'>**招收2027级博士研究生1名，欢迎邮件联系。**</font>
+<font color='red'><b>招收2027级博士研究生1名，欢迎邮件联系。</b></font>
 
 [PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A2=MET-JOBS;7640ef31.2605D&S=)
 
