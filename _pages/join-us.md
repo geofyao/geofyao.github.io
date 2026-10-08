@@ -10,7 +10,7 @@ In general, opportunities may exist for PostDoc, Ph.D., Master, and Undergraduat
 
 **欢迎对大气污染、气候变化、清洁能源及AI技术感兴趣的同学们（博士后、博士生、硕士生、本科生）加入我们！**
 
-[报名 ｜ 上海交通大学中英国际低碳学院 2027年暑期学术夏令营通知](https://mp.weixin.qq.com/s/ObhJDKL7fvGRI2_3CNDO6g)
+<font color='red'>**招收2027级博士研究生1名，欢迎邮件联系。**</font>
 
 [PhD and Postdoc Positions in Atmospheric Environment and Renewable Energy at Shanghai Jiao Tong University](https://maillists.reading.ac.uk/scripts/wa-READING.exe?A2=MET-JOBS;7640ef31.2605D&S=)
 
