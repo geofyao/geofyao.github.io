@@ -30,7 +30,8 @@ The Group Knowledge Base provides information on getting started with local reso
     ```
     ![]({{ site.url }}{{ site.baseurl }}/images/respic/salloc-vs-code.png){: style="width: 100%; float: center; margin: 10px"}
 - GEOS-Chem
-  - GEOS-Chem全球大气化学传输模型的驱动数据存放在Pi集群：`/lustre/home/acct-fei.yao/share/ExtData`，如需下载更多数据，须经课题组讨论通过，如数据也会被课题组其他成员使用。自2026年起，绝大部分GEOS-Chem的驱动数据已被移至[geos-chem.s3](https://geos-chem.s3.amazonaws.com/index.html)，包括先前存放在[WashU](http://geoschemdata.wustl.edu/)的大量MERRA-2历史数据。因此，必须下载安装[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)来访问这些数据，克服`sudo`的自定义安装命令参考`./aws/install -i /path/to/aws-cli -b /path/to/bin`。自定义数据请在`HEMCO_Config.rc`中单独定义路径。
+  - GEOS-Chem全球大气化学传输模型的驱动数据存放在Pi集群：`/lustre/home/acct-fei.yao/share/ExtData`，如需下载更多数据，须经课题组讨论通过，如数据也会被课题组其他成员使用。自定义数据请在`HEMCO_Config.rc`中单独定义路径。
+  - 自2026年起，绝大部分GEOS-Chem的驱动数据已被移至[geos-chem.s3](https://geos-chem.s3.amazonaws.com/index.html)，包括先前存放在[WashU](http://geoschemdata.wustl.edu/)的大量MERRA-2历史数据。因此，必须下载安装[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)来访问这些数据，克服`sudo`的自定义安装命令参考`./aws/install -i /path/to/aws-cli -b /path/to/bin`。
   - [Sample environment file](https://geos-chem.readthedocs.io/en/latest/getting-started/login-env-files-intel.html) for the Intel oneAPI on Pi cluster at SJTU:
     ```bash
     #!/bin/bash
@@ -64,7 +65,7 @@ The Group Knowledge Base provides information on getting started with local reso
     export OMP_STACKSIZE=500m
     ```
   - [Sample run script](https://geos-chem.readthedocs.io/en/latest/gcclassic-user-guide/run-script.html) for SLURM on Pi cluster at SJTU:<br/>
-    Note that GCClassic uses OpenMP, which is a shared-memory parallelization model. Using OpenMP limits GCClassic to one task (`--ntasks=1`) with multiple threads (`--cpus-per-task=16` and `export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK`) on a single node (`--nodes=1`).
+    Note that GCClassic uses OpenMP, which is a shared-memory parallelization model. Using OpenMP limits GCClassic to one task (`--ntasks=1`) with multiple threads (`--cpus-per-task=16` and `export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK`) on a single node (`--nodes=1`). That said, we can submit as many GCClassic jobs as necessary to run simultaneously, for example, when conducting a series of emission reduction experiments. <font color='red'><b>Please use computing resources responsibly, as every CPU hour incurs a cost. All activities on the HPC system are also monitored.</b></font>
     ```bash
     #!/bin/bash
 
