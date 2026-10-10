@@ -64,7 +64,7 @@ The Group Knowledge Base provides information on getting started with local reso
     ulimit -s unlimited
     export OMP_STACKSIZE=500m
     ```
-    **Note that Pi cluster at SJTU employs Intel Xeon CPUs, which means that the Intel oneAPI is the best choice for compiling and running GEOS-Chem. Do NOT use the GNU Fortran compiler in the absence of AMD CPUs. See discussion [here](https://github.com/geoschem/geos-chem/issues/638#issuecomment-810256301).**
+    **Note that [Pi cluster at SJTU employs Intel Xeon CPUs](https://docs.hpc.sjtu.edu.cn/system/computesystem.html), which means that the Intel oneAPI is the best choice for compiling and running GEOS-Chem. Do NOT use the GNU Fortran compiler in the absence of AMD CPUs. See discussion [here](https://github.com/geoschem/geos-chem/issues/638#issuecomment-810256301).**
   - [Sample run script](https://geos-chem.readthedocs.io/en/latest/gcclassic-user-guide/run-script.html) for SLURM on Pi cluster at SJTU:<br/>
     ```bash
     #!/bin/bash
