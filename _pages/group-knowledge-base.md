@@ -64,8 +64,8 @@ The Group Knowledge Base provides information on getting started with local reso
     ulimit -s unlimited
     export OMP_STACKSIZE=500m
     ```
+    **Note that Pi cluster at SJTU employs Intel Xeon CPUs, which means that the Intel oneAPI is the best choice for compiling and running GEOS-Chem. Do NOT use the GNU Fortran compiler in the absence of AMD CPUs. See discussion [here](https://github.com/geoschem/geos-chem/issues/638#issuecomment-810256301).**
   - [Sample run script](https://geos-chem.readthedocs.io/en/latest/gcclassic-user-guide/run-script.html) for SLURM on Pi cluster at SJTU:<br/>
-    Note that GCClassic uses OpenMP, which is a shared-memory parallelization model. Using OpenMP limits GCClassic to one task (`--ntasks=1`) with multiple threads (`--cpus-per-task=16` and `export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK`) on a single node (`--nodes=1`). That said, we can submit as many GCClassic jobs as necessary to run simultaneously, for example, when conducting a series of emission reduction experiments. <font color='red'><b>Please use computing resources responsibly, as every CPU hour incurs a cost. All activities on the HPC system are also monitored.</b></font>
     ```bash
     #!/bin/bash
 
@@ -90,6 +90,7 @@ The Group Knowledge Base provides information on getting started with local reso
     # exit normally
     exit 0
     ```
+    Note that GCClassic uses OpenMP, which is a shared-memory parallelization model. Using OpenMP limits GCClassic to one task (`--ntasks=1`) with multiple threads (`--cpus-per-task=16` and `export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK`) on a single node (`--nodes=1`). That said, we can submit as many GCClassic jobs as necessary to run simultaneously, for example, when conducting a series of emission reduction experiments. **However, please limit the number of CPU cores per job to a reasonable value (typically 16),** as GCClassic does not scale perfectly due to its unparallelizable portion of the code ([Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law)). <font color='red'><b>Please use computing resources responsibly, as every CPU hour incurs a cost. All activities on the HPC system are also monitored.</b></font>
   - [提交作业后，可使用`squeue`命令查看作业所在的计算节点，并登陆相关节点查看作业的运行情况](https://docs.hpc.sjtu.edu.cn/job/resource.html#id4)。以下展示GCClassic作业的并行运行情况，这一技巧同样适用于其他作业。
     ```bash
     # 查看作业使用的计算节点
