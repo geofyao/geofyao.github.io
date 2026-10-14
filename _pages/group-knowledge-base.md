@@ -1,7 +1,7 @@
 ---
-title: "E5 Nexus Lab — Group"
+title: "E5 Nexus Lab — Knowledge"
 layout: gridlay
-excerpt: "E5 Nexus Lab — Group"
+excerpt: "E5 Nexus Lab — Knowledge"
 sitemap: false
 permalink: /group-knowledge-base/
 ---

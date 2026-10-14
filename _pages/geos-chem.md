@@ -1,7 +1,7 @@
 ---
-title: "E5 Nexus Lab — Group"
+title: "E5 Nexus Lab — GEOS-Chem"
 layout: gridlay
-excerpt: "E5 Nexus Lab — Group"
+excerpt: "E5 Nexus Lab — GEOS-Chem"
 sitemap: false
 permalink: /geos-chem.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "E5 Nexus Lab — Group"
+title: "E5 Nexus Lab — HPC"
 layout: gridlay
-excerpt: "E5 Nexus Lab — Group"
+excerpt: "E5 Nexus Lab — HPC"
 sitemap: false
 permalink: /hpc-at-sjtu.html
 ---
