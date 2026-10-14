@@ -10,7 +10,7 @@ permalink: /geos-chem.html
   - GEOS-Chem全球大气化学传输模型的驱动数据存放在Pi集群：`/lustre/home/acct-fei.yao/share/ExtData`，如需下载更多数据，须经课题组讨论通过，如数据也会被课题组其他成员使用。自定义数据请在`HEMCO_Config.rc`中单独定义路径。
   - 自2026年起，绝大部分GEOS-Chem的驱动数据已被移至[geos-chem.s3](https://geos-chem.s3.amazonaws.com/index.html)，包括先前存放在[WashU](http://geoschemdata.wustl.edu/)的大量MERRA-2历史数据。因此，必须下载安装[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)来访问这些数据，克服`sudo`的自定义安装命令参考`./aws/install -i /path/to/aws-cli -b /path/to/bin`。
 
-- GCClassic (GEOS-Chem Classic)
+- GEOS-Chem Classic (GCClassic)
   - [Sample environment file](https://geos-chem.readthedocs.io/en/latest/getting-started/login-env-files-intel.html) for the Intel oneAPI on Pi cluster at SJTU:
     ```bash
     #!/bin/bash
@@ -84,5 +84,6 @@ permalink: /geos-chem.html
     ![]({{ site.url }}{{ site.baseurl }}/images/teampic/gcclassic-top.png){: style="width: 100%; float: center; margin: 10px"}
     Note that the maximum wall-time limit for a single job on the SJTU Pi cluster is 7 days. If your job is expected to run longer, you can [request an extension from the system administrator at least 1 day in advance](https://docs.hpc.sjtu.edu.cn/job/partition.html#id3). However, the maximum wall time with an extension is 14 days in total. **A more recommended approach is to [schedule a bunch of jobs to run one after the other using the `--dependency` option in SLURM](https://hpc.hku.hk/guide/slurm-guide/slurm-job-dependencies/). Because there is almost no pending time for jobs in the SJTU Pi cluster, this approach perfectly mimics a long-running job while still respecting the wall-time limit.** Refer to [gcclassic.sh](https://github.com/geofyao/cncc-solar-energy/blob/main/rundirs/gc_2x25_47L_merra2_fullchem_RRTMG/gcclassic.sh) and [gcclassic.sbatch](https://github.com/geofyao/cncc-solar-energy/blob/main/rundirs/gc_2x25_47L_merra2_fullchem_RRTMG/gcclassic.sbatch) for examples of how to make this happen!
 
-- GCHP (GEOS-Chem High Performance)
+- GEOS-Chem High Performance (GCHP)
+  - NOT used in our group yet,
   - 
