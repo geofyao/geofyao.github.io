@@ -10,5 +10,5 @@ permalink: /machine-and-deep-learning.html
   - XXX
 
 - Deep Learning with PyTorch
-  - We use PyTorch because Google has reduced its investments in TensorFlow and focused more on JAX in recent years.
+  - <font color='red'><b>We use PyTorch because Google has reduced its investments in TensorFlow and focused more on JAX in recent years.</b></font>
   - 
