@@ -19,6 +19,8 @@ permalink: /geofyao.html
 
 **2026 (X)**
 
+芯片简史，汪波著
+
 飘，玛格丽特·米切尔著，朱攸若译
 
 <div style="
