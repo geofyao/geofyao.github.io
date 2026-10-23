@@ -26,7 +26,7 @@ permalink: /publications/
 
 ## In Progress
 
-24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Sensitivity to Soil NO$_x$ Relative to Biogenic VOCs. Accepted for publication in <i>Environmental Science & Technology</i>.
+24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Responsiveness to Soil NO$_x$ Relative to Biogenic VOCs. Accepted for publication in <i>Environmental Science & Technology</i>. doi: [10.1021/acs.est.6c09645](https://doi.org/10.1021/acs.est.6c09645)
 
 ## Peer-reviewed
 
