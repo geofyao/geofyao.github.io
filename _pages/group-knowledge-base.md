@@ -8,12 +8,12 @@ permalink: /group-knowledge-base/
 
 The Group Knowledge Base provides information on getting started with local resources at the E5 Nexus Lab at SJTU. We hope that new group members will find this information helpful.
 
-#### Local Resources at SJTU
+##### **Local Resources at SJTU**
 - [HPC]({{ site.url }}{{ site.baseurl }}/hpc.html)
 - [GEOS-Chem]({{ site.url }}{{ site.baseurl }}/geos-chem.html)
 
-#### Recommended Learning Resources
-- Linux, bash, and Git (The big three!) provided by [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
+##### **Recommended Learning Resources**
+- [Linux, bash, and Git (The big three!)](https://software-carpentry.org/lessons/)
 - [The Linux Command Line](https://billie66.github.io/TLCL/)
 - [Fortran Language](https://fortran-lang.org/)
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
