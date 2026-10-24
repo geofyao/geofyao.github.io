@@ -3,7 +3,7 @@ title: "E5 Nexus Lab — HPC"
 layout: gridlay
 excerpt: "E5 Nexus Lab — HPC"
 sitemap: false
-permalink: /hpc-at-sjtu.html
+permalink: /hpc.html
 ---
 
 - <font color='red'><b>Note that we are currently using only the Pi cluster. We may expand to other clusters at some point.</b></font>
