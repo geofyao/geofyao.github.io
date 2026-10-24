@@ -4,6 +4,7 @@ layout: gridlay
 excerpt: "E5 Nexus Lab — Group"
 sitemap: false
 permalink: /group/
+nav_order: 2
 has_children: true
 ---
 
