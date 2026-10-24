@@ -12,8 +12,9 @@ The Group Knowledge Base provides information on getting started with local reso
 - [GEOS-Chem]({{ site.url }}{{ site.baseurl }}/geos-chem.html)
 - [Software Carpentry Lessons](https://software-carpentry.org/lessons/)
 - [The Linux Command Line](https://billie66.github.io/TLCL/)
+- [Fortran Language](https://fortran-lang.org/)
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Fortran Language](https://fortran-lang.org/)
 - [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
+- [Python Packages](https://py-pkgs.org/)
 - 
