@@ -1,18 +1,14 @@
 ---
-title: "E5 Nexus Lab — Group"
+title: "E5 Nexus Lab — Members"
 layout: gridlay
-excerpt: "E5 Nexus Lab — Group"
+excerpt: "E5 Nexus Lab — Members"
 sitemap: false
-permalink: /group/
+permalink: /current-group-members/
 ---
 
 **Alone we can do so little, together we can do so much. — Helen Keller**
 
-[group-knowledge-base]({{ site.url }}{{ site.baseurl }}/group-knowledge-base/)
-
-### Current Group Members
-
-<!-- Also see our [Alumni List](#alumni-list) and [Group Photos](#group-photos) -->
+---
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -93,7 +89,3 @@ permalink: /group/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-<!-- ## Alumni List -->
-
-<!-- ## Group Photos -->
