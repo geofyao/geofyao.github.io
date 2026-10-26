@@ -11,13 +11,18 @@ The Group Knowledge Base provides information on getting started with local reso
 ##### **Local Resources at SJTU**
 - [HPC]({{ site.url }}{{ site.baseurl }}/hpc.html)
 - [GEOS-Chem]({{ site.url }}{{ site.baseurl }}/geos-chem.html)
+- [Google Earth Engine]({{ site.url }}{{ site.baseurl }}/google-earth-engine.html)
+- 
 
 ##### **Recommended Learning Resources**
 - [Linux, bash, and Git (The big three!)](https://software-carpentry.org/lessons/)
 - [The Linux Command Line](https://billie66.github.io/TLCL/)
+- [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [Fortran Language](https://fortran-lang.org/)
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://github.com/ageron/handson-mlp)
+- [Cartopy for plotting maps in China](https://mp.weixin.qq.com/s/VLRAwsNNdX7Yvnxt-JVHFA)
+- [Intermediate Python](https://book.pythontips.com/en/latest/)
 - [Python Packages](https://py-pkgs.org/)
 - 
