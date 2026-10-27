@@ -3,6 +3,7 @@ _site
 .jekyll-metadata
 
 # not the following by fyao
+.DS_Store
 misc.md
-downloads/PDF/
-downloads/PPT/
+internal/
+
