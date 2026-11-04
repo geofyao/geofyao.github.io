@@ -26,9 +26,11 @@ permalink: /publications/
 
 ## In Progress
 
-24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Responsiveness to Soil NO$_x$ Relative to Biogenic VOCs. Accepted for publication in <i>Environmental Science & Technology</i>. doi: [10.1021/acs.est.6c09645](https://doi.org/10.1021/acs.est.6c09645)
+<b>25\.</b> <b>Yao, F.</b>, et al., 2026. Global Solar Energy Yield Gaps due to Aerosol Emissions Embodied in International Trade. Manuscript in preparation.
 
 ## Peer-reviewed
+
+24\. Huang, L.<sup>#\*</sup>, Liu, X.<sup>#</sup>, Kong, Z., Yarwood, G., Emery, C., Tuite, K., Wang, X., Yao, F., Chen, H., Tan, J., Wang, Y. and Li, L.<sup>\*</sup>, 2026. Emission Mitigation and Climate Warming Increase China’s Ozone Responsiveness to Soil NO$_x$ Relative to Biogenic VOCs. <i>Environmental Science & Technology</i>, 60(43), pp.30826-30837. doi: [10.1021/acs.est.6c09645](https://doi.org/10.1021/acs.est.6c09645)
 
 <b>23\.</b> <b>Yao, F.<sup>\*</sup></b>, Palmer, P.I.<sup>\*</sup>, Wang, X., Wang, Y., Lee, G.T., Wang, H., Feng, L., Henze, D.K. and Park, R.J., 2026. Do GEMS geostationary satellite observations of tropospheric NO<sub>2</sub> always improve NO<sub>x</sub> emission estimates and related air quality modelling?. <i>Atmospheric Chemistry and Physics</i>, 26(16), pp.12049–12066. doi: [10.5194/acp-26-12049-2026](https://acp.copernicus.org/articles/26/12049/2026/)
 <br/>
