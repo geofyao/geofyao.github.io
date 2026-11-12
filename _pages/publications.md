@@ -8,11 +8,13 @@ permalink: /publications/
 
 <!-- **Publish ~~or Perish~~. Now ~~or Never~~. Done ~~is better than perfect~~.** -->
 
+[**Writing is thinking!**](https://www.nature.com/articles/s44222-025-00323-4)
+
 <!-- **E5 Nexus Lab has published XXX peer-reviewed articles (with team members as first or corresponding authors) since 2026.** -->
 
 **Fei Yao has published 24 peer-reviewed articles, including 12 as first and/or corresponding authors, with 3 in [Nature Index](https://www.nature.com/nature-index/faq#journals) journals.**
 <br/>
-[Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8) [Writing is thinking!](https://www.nature.com/articles/s44222-025-00323-4)
+[Google Scholar](https://scholar.google.com/citations?user=eiy4D-YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Fei_Yao8)
 
 <!-- [ORCID](https://orcid.org/0000-0002-8327-3252) -->
 
