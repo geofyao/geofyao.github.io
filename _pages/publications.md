@@ -18,6 +18,8 @@ permalink: /publications/
 
 <!-- [ResearcherID](https://www.webofscience.com/wos/author/record/N-7389-2017) -->
 
+---
+
 (Corresponding author<sup>\*</sup>; co-first author<sup>#</sup>; group members are shown in **bold** when they are first and/or corresponding authors)
 
 <!-- **Publication list (First or Corres. Author/All)** -->
